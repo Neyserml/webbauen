@@ -1,0 +1,824 @@
+User: 190.236.13.75 - October 19, 2017, 12:31 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"1ea99dd6dbd61b11","language_id":"2","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:31 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"1ea99dd6dbd61b11","device_type":"1","language_id":"2","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:31 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"1ea99dd6dbd61b11","request_to":"","driver_id":"","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","page_no":"","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_id":"59","request_status":"0*1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:31 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"1ea99dd6dbd61b11","request_to":"","driver_id":"","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","page_no":"","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_id":"59","request_status":"0*1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:31 am
+Attempt function name : my_bids
+Posted data : {"device_type":"1","language_id":"2","bid_status":"6","search_text":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:31 am
+Attempt function name : my_bids
+Posted data : {"device_type":"1","language_id":"2","bid_status":"7","search_text":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:32 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"1ea99dd6dbd61b11","request_to":"","driver_id":"","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","page_no":"","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_id":"59","request_status":"5*6*7*8*9*10*11*12"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:32 am
+Attempt function name : my_bids
+Posted data : {"device_type":"1","language_id":"2","bid_status":"6","search_text":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:32 am
+Attempt function name : my_bids
+Posted data : {"device_type":"1","language_id":"2","bid_status":"7","search_text":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:33 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"1ea99dd6dbd61b11","request_to":"","driver_id":"","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","page_no":"","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_id":"59","request_status":"5*6*7*8*9*10*11*12"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:33 am
+Attempt function name : rating_list
+Posted data : {"device_type":"1","language_id":"2","other_user_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:33 am
+Attempt function name : rating_list
+Posted data : {"device_type":"1","language_id":"2","other_user_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:33 am
+Attempt function name : rating_list
+Posted data : {"device_type":"1","language_id":"2","other_user_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","user_id":"59","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:33 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"1ea99dd6dbd61b11","request_to":"","driver_id":"","user_request_key":"e8d56481d6ea539c59e6378c172cd40e","page_no":"","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"eoOERUomzgI:APA91bF8EhKC9NRjGD32HdOoUFtyDIGSHDwW-vjJ_WMKgc-VjSd7mvpCZrh5tCoCxA5ZfBBa3ZgvQ7Wl2K4WTwhZAhw17QsAlNdxKE99b_GIB39zgAWRWx19_zRZ5msOVj6v343QO9z_","user_id":"59","request_status":"0*1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:48 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"1ea99dd6dbd61b11","language_id":"2","device_push_id":"f9a2_rVaTak:APA91bFIelrVW_5HZdTLqArpL5xSUwwPsSv-kGyTjbJPPeU_qaREv4-VFmyXBW24iVzghhb6DmiEyqGsjZfoQuADv6-SfntoeqWr0dShQyZtpUrcQxJjX5Sq02elGFbUgGR1ZWSxR6bw"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:49 am
+Attempt function name : login
+Posted data : {"password":"Hikger33","device_type":"1","language_id":"2","user_type":"0","email":"serg.olcese@gmail.com","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"f9a2_rVaTak:APA91bFIelrVW_5HZdTLqArpL5xSUwwPsSv-kGyTjbJPPeU_qaREv4-VFmyXBW24iVzghhb6DmiEyqGsjZfoQuADv6-SfntoeqWr0dShQyZtpUrcQxJjX5Sq02elGFbUgGR1ZWSxR6bw"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:49 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"f9a2_rVaTak:APA91bFIelrVW_5HZdTLqArpL5xSUwwPsSv-kGyTjbJPPeU_qaREv4-VFmyXBW24iVzghhb6DmiEyqGsjZfoQuADv6-SfntoeqWr0dShQyZtpUrcQxJjX5Sq02elGFbUgGR1ZWSxR6bw","user_request_key":"208ac04adc5d08f9e33afc79fd033aab","user_id":"86"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:49 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"f9a2_rVaTak:APA91bFIelrVW_5HZdTLqArpL5xSUwwPsSv-kGyTjbJPPeU_qaREv4-VFmyXBW24iVzghhb6DmiEyqGsjZfoQuADv6-SfntoeqWr0dShQyZtpUrcQxJjX5Sq02elGFbUgGR1ZWSxR6bw","user_request_key":"208ac04adc5d08f9e33afc79fd033aab","user_id":"86"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:49 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"f9a2_rVaTak:APA91bFIelrVW_5HZdTLqArpL5xSUwwPsSv-kGyTjbJPPeU_qaREv4-VFmyXBW24iVzghhb6DmiEyqGsjZfoQuADv6-SfntoeqWr0dShQyZtpUrcQxJjX5Sq02elGFbUgGR1ZWSxR6bw","user_request_key":"208ac04adc5d08f9e33afc79fd033aab","user_id":"86"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.13.75 - October 19, 2017, 12:49 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"1ea99dd6dbd61b11","device_push_id":"f9a2_rVaTak:APA91bFIelrVW_5HZdTLqArpL5xSUwwPsSv-kGyTjbJPPeU_qaREv4-VFmyXBW24iVzghhb6DmiEyqGsjZfoQuADv6-SfntoeqWr0dShQyZtpUrcQxJjX5Sq02elGFbUgGR1ZWSxR6bw","user_request_key":"208ac04adc5d08f9e33afc79fd033aab","user_id":"86"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.0.233 - October 19, 2017, 1:24 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"ef5c8a357c2ceb76","device_type":"1","language_id":"2","device_push_id":"c2LMlhmA2m0:APA91bFXTodcCW1m9xT572MzkuDPbeCPKBkkcsyrrhN2TzTeOWA8w397TsMV_rABH_zlmQrujZVcvGvUqVD68kP59aTTr5C2xloIMFkAiUAAUFXRG-a0-9O_kZe8MaS8Q-w5IPDNjPcU"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.84.9 - October 19, 2017, 1:27 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.84.9 - October 19, 2017, 1:27 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:04 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:05 am
+Attempt function name : login
+Posted data : {"email":"testcustomer@gmail.com","device_unique_code":"4d548e51534a04fc","device_type":"1","password":"123","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:05 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:12 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:12 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:12 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:12 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:12 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"1","device_unique_code":"4d548e51534a04fc","request_to":"","driver_id":"","user_request_key":"08fbbed4899871760f93fa10ad12961f","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_id":"31","request_status":"13"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"1","device_unique_code":"4d548e51534a04fc","request_to":"","driver_id":"","user_request_key":"08fbbed4899871760f93fa10ad12961f","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_id":"31","request_status":"14"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"1","device_unique_code":"4d548e51534a04fc","request_to":"","driver_id":"","user_request_key":"08fbbed4899871760f93fa10ad12961f","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_id":"31","request_status":"13"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"1","device_unique_code":"4d548e51534a04fc","request_to":"","driver_id":"","user_request_key":"08fbbed4899871760f93fa10ad12961f","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_id":"31","request_status":"0*1*4"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:13 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"1","device_unique_code":"4d548e51534a04fc","request_to":"","driver_id":"","user_request_key":"08fbbed4899871760f93fa10ad12961f","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_id":"31","request_status":"13"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"1","device_unique_code":"4d548e51534a04fc","request_to":"","driver_id":"","user_request_key":"08fbbed4899871760f93fa10ad12961f","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_id":"31","request_status":"0*1*4"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:14 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:27 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:27 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:27 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 8:27 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"fHVKXP70w6s:APA91bGNlrbLQhCqO0fr-3oHdjzPOKrgPYcrP5C_sTkNOIAL1yHHNwI2618bmlg1bEXeXPlbpisIkdwC-ouzWHk_qxpPIyy8MVUZRyXivdQACb-J1C31gCNYSRbeN2M-sBb4gMqE8M7H","user_request_key":"08fbbed4899871760f93fa10ad12961f","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:46 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"f2Yb1iLLOss:APA91bEv3vx30tERGAZKquPDvqMR0_XsPSTs_7q3FxeWsVHeP9TFAkuQvL0FCRggRmZuOMC69AvlKp69_7_tF5Y4Dqmtjw-1HMCWn-oOzxhE10AtA0F18e9HLQBjgbrG5lVVUTXAovx_","device_unique_code":"69f632faad096cc8","device_type":"1","language_id":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:46 am
+Attempt function name : user_profile
+Posted data : {"user_id":"31","device_push_id":"f2Yb1iLLOss:APA91bEv3vx30tERGAZKquPDvqMR0_XsPSTs_7q3FxeWsVHeP9TFAkuQvL0FCRggRmZuOMC69AvlKp69_7_tF5Y4Dqmtjw-1HMCWn-oOzxhE10AtA0F18e9HLQBjgbrG5lVVUTXAovx_","device_unique_code":"69f632faad096cc8","user_request_key":"9affc5fe0ca5cfa6061bee874833dd87","device_type":"1","language_id":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:48 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : login
+Posted data : {"password":"123","user_type":"0","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","device_type":"1","language_id":"1","email":"TESTCUSTOMER@GMAIL.COM"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : request_list
+Posted data : {"request_status":"0*1*4","driver_id":"","loadtype_id":"","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","page_no":"1","language_id":"1","request_weight":"","request_from":"","user_id":"31","trailer_id":"","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:49 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:50 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:51 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:51 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:51 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:51 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:51 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"eZBwllYIShE:APA91bGBmyasS8NI8DJwPIz-u5kOe0NeVk_WKB46rC4ZAMKtkE5vNVpbQB6682FIPrhhdPjCWbvX5CCak0djQ3ZjUY-VYThK1ukAOU8N78iVEi4w8nNwgIPw1zit3mSW3fV75YFYO-Df","device_unique_code":"69f632faad096cc8","user_request_key":"e036a05ed73fe2dd02a2693b56e7f8b7","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : login
+Posted data : {"password":"123","user_type":"0","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","device_type":"1","language_id":"1","email":"testcustomer@gmail.com"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : request_list
+Posted data : {"request_status":"13","driver_id":"","loadtype_id":"","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","page_no":"1","language_id":"1","request_weight":"","request_from":"","user_id":"31","trailer_id":"","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : request_list
+Posted data : {"request_status":"2*3*5*6*6*7*8*9*10*11*12","driver_id":"","loadtype_id":"","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","page_no":"1","language_id":"1","request_weight":"","request_from":"","user_id":"31","trailer_id":"","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 45.249.69.58 - October 19, 2017, 8:58 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"31","device_push_id":"cnF2PN-gxu4:APA91bGke_QJn56-4cZCiTbaZUHdmgKdS5J2Zxzv98Euzid46_76LnB59vB2UsQVxVQj_4lUdt61q2xUbj2MMqfTyjqosWyk62H7O2hMuBippbZm2Ysu2Gp5vyBgrYoDhpDcMucx2agp","device_unique_code":"69f632faad096cc8","user_request_key":"806cf655076421611e0a3a3f120ea0af","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 9:03 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"et_HehwWk7I:APA91bHW1Di0v7vfvBc0f5sw6Znn8rkRvsvBSipmIGuZafh3ICFD7k-IswD3GM22ykcsDHsfl3SpZNJ2NkGa07vhBiDvFfbuxkVr1J3ZdS70OQBzwReToFebCrjqOhAGmDaL3M1ByqY5"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 9:03 am
+Attempt function name : login
+Posted data : {"email":"testcustomer@gmail.com","device_unique_code":"4d548e51534a04fc","device_type":"1","password":"123","language_id":"1","device_push_id":"et_HehwWk7I:APA91bHW1Di0v7vfvBc0f5sw6Znn8rkRvsvBSipmIGuZafh3ICFD7k-IswD3GM22ykcsDHsfl3SpZNJ2NkGa07vhBiDvFfbuxkVr1J3ZdS70OQBzwReToFebCrjqOhAGmDaL3M1ByqY5","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 9:03 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"et_HehwWk7I:APA91bHW1Di0v7vfvBc0f5sw6Znn8rkRvsvBSipmIGuZafh3ICFD7k-IswD3GM22ykcsDHsfl3SpZNJ2NkGa07vhBiDvFfbuxkVr1J3ZdS70OQBzwReToFebCrjqOhAGmDaL3M1ByqY5","user_request_key":"e114a9aa7096c43f866afad47f339654","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.217.235.139 - October 19, 2017, 9:03 am
+Attempt function name : unread_notification
+Posted data : {"device_unique_code":"4d548e51534a04fc","device_type":"1","language_id":"1","device_push_id":"et_HehwWk7I:APA91bHW1Di0v7vfvBc0f5sw6Znn8rkRvsvBSipmIGuZafh3ICFD7k-IswD3GM22ykcsDHsfl3SpZNJ2NkGa07vhBiDvFfbuxkVr1J3ZdS70OQBzwReToFebCrjqOhAGmDaL3M1ByqY5","user_request_key":"e114a9aa7096c43f866afad47f339654","request_id":"","user_id":"31"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.77.198 - October 19, 2017, 8:20 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

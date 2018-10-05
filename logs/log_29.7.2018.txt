@@ -1,0 +1,56 @@
+User: 190.235.71.110 - July 29, 2018, 11:10 am
+Attempt function name : login
+Posted data : {"device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - July 29, 2018, 11:10 am
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"27b95624fb7eaf02d3854a1e12493489","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - July 29, 2018, 11:10 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.3.221 - July 29, 2018, 12:20 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.53.110 - July 29, 2018, 1:39 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 201.230.26.110 - July 29, 2018, 10:20 pm
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"76229e71c02667b5","language_id":"2","device_push_id":"ebQ4NHdHMkM:APA91bEXXt6bAip2Pfu7dWoC7Xarz5NrVi5YNHHkTKHId50GkZa4wersRnTehtKokWESXfFL9pb-hPXDMKGWhUkjjB8xUSaWnWwogDPPbCg_iTOaN-XjLlb-34Di3Qsh2fKiuZO2AYaP"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 201.230.26.110 - July 29, 2018, 10:20 pm
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"76229e71c02667b5","device_type":"1","language_id":"2","device_push_id":"ebQ4NHdHMkM:APA91bEXXt6bAip2Pfu7dWoC7Xarz5NrVi5YNHHkTKHId50GkZa4wersRnTehtKokWESXfFL9pb-hPXDMKGWhUkjjB8xUSaWnWwogDPPbCg_iTOaN-XjLlb-34Di3Qsh2fKiuZO2AYaP","user_request_key":"26d1333a2ff2c5ca8100d6dd42865b07","user_id":"66"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

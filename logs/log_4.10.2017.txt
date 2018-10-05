@@ -1,0 +1,48 @@
+User: 17.200.11.44 - October 4, 2017, 3:55 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - October 4, 2017, 3:57 pm
+Attempt function name : login
+Posted data : {"device_unique_code":"983A76CC-FDE2-44C1-9E38-380E28BF462B","email":"testcompany@gmail.com","is_company":"1","password":"123","device_push_id":"68bab2a8ae5e9cab2a6b0eba994a4cc604c1cc153a86cf8d7ad271e38fd9be36","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - October 4, 2017, 3:57 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"983A76CC-FDE2-44C1-9E38-380E28BF462B","request_status":"0*1","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"499448dfb891827a6c64985fe4c7b0a1","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"68bab2a8ae5e9cab2a6b0eba994a4cc604c1cc153a86cf8d7ad271e38fd9be36","page_no":"1","user_id":"16"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - October 4, 2017, 4:21 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"179a68bc3d402f553de5b72e2b864c6ed949b6299898b5cc57c2408dbb8a1bb7","device_unique_code":"983A76CC-FDE2-44C1-9E38-380E28BF462B","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - October 4, 2017, 4:21 pm
+Attempt function name : login
+Posted data : {"device_push_id":"179a68bc3d402f553de5b72e2b864c6ed949b6299898b5cc57c2408dbb8a1bb7","user_type":"0","email":"iosuser@gmail.com","device_unique_code":"983A76CC-FDE2-44C1-9E38-380E28BF462B","password":"12345","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - October 4, 2017, 4:21 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"983A76CC-FDE2-44C1-9E38-380E28BF462B","device_push_id":"179a68bc3d402f553de5b72e2b864c6ed949b6299898b5cc57c2408dbb8a1bb7","language_id":"1","user_request_key":"c1b5b2b6de2973d79d13fd3bf9891b51","user_id":"83","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

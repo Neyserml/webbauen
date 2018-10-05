@@ -1,0 +1,80 @@
+User: 216.69.191.97 - June 22, 2018, 2:42 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 10:56 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"d6NTgPMZPc8:APA91bFiJ94j2fClKI_Ry82EycmKsfGrZfmHjdCCYwBASS9sd6DErNG2Wtxj0lOVENXNdumfYj9fHV3xwYitbHYyUDoghCksGFK1MVUPzLwEk3xs9LoLXX-Kpcp7--_Gpcor-ds_gbNj","device_unique_code":"59278334c2cf0fd2","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 10:56 pm
+Attempt function name : user_profile
+Posted data : {"user_id":"323","device_push_id":"d6NTgPMZPc8:APA91bFiJ94j2fClKI_Ry82EycmKsfGrZfmHjdCCYwBASS9sd6DErNG2Wtxj0lOVENXNdumfYj9fHV3xwYitbHYyUDoghCksGFK1MVUPzLwEk3xs9LoLXX-Kpcp7--_Gpcor-ds_gbNj","device_unique_code":"59278334c2cf0fd2","user_request_key":"b6c0166b4a7ac7f26880c06dc5fc2a39","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 10:56 pm
+Attempt function name : unread_notification
+Posted data : {"user_id":"323","device_push_id":"d6NTgPMZPc8:APA91bFiJ94j2fClKI_Ry82EycmKsfGrZfmHjdCCYwBASS9sd6DErNG2Wtxj0lOVENXNdumfYj9fHV3xwYitbHYyUDoghCksGFK1MVUPzLwEk3xs9LoLXX-Kpcp7--_Gpcor-ds_gbNj","device_unique_code":"59278334c2cf0fd2","user_request_key":"d16d858d75e0d90be58031a371ad2c5f","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 10:57 pm
+Attempt function name : unread_notification
+Posted data : {"user_id":"323","device_push_id":"d6NTgPMZPc8:APA91bFiJ94j2fClKI_Ry82EycmKsfGrZfmHjdCCYwBASS9sd6DErNG2Wtxj0lOVENXNdumfYj9fHV3xwYitbHYyUDoghCksGFK1MVUPzLwEk3xs9LoLXX-Kpcp7--_Gpcor-ds_gbNj","device_unique_code":"59278334c2cf0fd2","user_request_key":"d16d858d75e0d90be58031a371ad2c5f","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.97 - June 22, 2018, 10:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"fJguO1vnRus:APA91bFlFN5dM3EwkqYXlbUs3aNVvAJXDbxcQsqLEr5YvmLjTpSLdR6CPIbNW-D8WvEHrQ30XEYgAK_As0lW4K35CMoDA9yV-5us-Y9DIvm1BMTR-Km0Ai30rFciy8gx12zJ1IUZgg2b","device_unique_code":"349c405990682b48","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 10:58 pm
+Attempt function name : login
+Posted data : {"password":"123","user_type":"1","device_push_id":"fJguO1vnRus:APA91bFlFN5dM3EwkqYXlbUs3aNVvAJXDbxcQsqLEr5YvmLjTpSLdR6CPIbNW-D8WvEHrQ30XEYgAK_As0lW4K35CMoDA9yV-5us-Y9DIvm1BMTR-Km0Ai30rFciy8gx12zJ1IUZgg2b","device_unique_code":"349c405990682b48","device_type":"1","language_id":"1","is_company":"1","email":"fernandopazos00@gmail.com"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 10:58 pm
+Attempt function name : request_list
+Posted data : {"request_status":"0*1","driver_id":"","loadtype_id":"","user_request_key":"b91dffafbbfb763379504b817c815752","device_type":"1","page_no":"","language_id":"1","request_weight":"","request_from":"","user_id":"188","trailer_id":"","device_push_id":"fJguO1vnRus:APA91bFlFN5dM3EwkqYXlbUs3aNVvAJXDbxcQsqLEr5YvmLjTpSLdR6CPIbNW-D8WvEHrQ30XEYgAK_As0lW4K35CMoDA9yV-5us-Y9DIvm1BMTR-Km0Ai30rFciy8gx12zJ1IUZgg2b","device_unique_code":"349c405990682b48","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.97 - June 22, 2018, 10:58 pm
+Attempt function name : getCompanyByUserId
+Posted data : {"user_id":"323","device_push_id":"fJguO1vnRus:APA91bFlFN5dM3EwkqYXlbUs3aNVvAJXDbxcQsqLEr5YvmLjTpSLdR6CPIbNW-D8WvEHrQ30XEYgAK_As0lW4K35CMoDA9yV-5us-Y9DIvm1BMTR-Km0Ai30rFciy8gx12zJ1IUZgg2b","device_unique_code":"349c405990682b48","user_request_key":"b91dffafbbfb763379504b817c815752","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 22, 2018, 11:24 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

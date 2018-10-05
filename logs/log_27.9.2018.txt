@@ -1,0 +1,288 @@
+User: 190.235.71.110 - September 27, 2018, 12:22 am
+Attempt function name : login
+Posted data : {"device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:22 am
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:22 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","search_text":"","request_status":"13","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","request_to":"","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","request_weight":"","language_id":"2","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:22 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","search_text":"","request_status":"13","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","request_to":"","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","request_weight":"","language_id":"2","user_id":"53","page_no":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:29 am
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:30 am
+Attempt function name : notification_list
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","page_no":"1","language_id":"2","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:30 am
+Attempt function name : notification_list
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","page_no":"2","language_id":"2","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 27, 2018, 12:30 am
+Attempt function name : notification_list
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","page_no":"3","language_id":"2","user_request_key":"c4510afcd0060e6f118f9fdadbd8ea84","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.72.86 - September 27, 2018, 10:02 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.223.51.58 - September 27, 2018, 10:02 am
+Attempt function name : request_list
+Posted data : {"device_type":"","device_unique_code":"","user_id":"436","user_request_key":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.72.86 - September 27, 2018, 10:57 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.72.24 - September 27, 2018, 1:33 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.159 - September 27, 2018, 1:36 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.72.86 - September 27, 2018, 4:13 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.72.86 - September 27, 2018, 4:34 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 6:41 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.76.95 - September 27, 2018, 7:30 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.159 - September 27, 2018, 8:07 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 8:11 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 8:15 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 66.249.65.161 - September 27, 2018, 8:17 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"c447710675550c2a","device_type":"1","language_id":"","device_push_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 66.249.65.164 - September 27, 2018, 8:22 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"c447710675550c2a","device_type":"1","language_id":"1","device_push_id":"eHiUA0X-mbg:APA91bGpQ22PsB0F624PCVMYNsh0CWe_g1hKgRuhNVD6LctLqlMOjYpsRl79bGlratu42U8oSkrTbdwavnl5HMvFFC53IbQMtWip2RlesrCll5hkkEuu3o9jEQjs4PaOAEqV6rzOqqsG"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 8:23 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 66.249.65.191 - September 27, 2018, 8:24 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"5eae1ee3bb21a661","device_type":"1","language_id":"","device_push_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 66.249.65.191 - September 27, 2018, 8:33 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"5eae1ee3bb21a661","device_type":"1","language_id":"1","device_push_id":"eRpdrGgbeYo:APA91bHY9nLPX9m_Bq0B-NKzg2YniVWmdoDwamQWUO5AmAspp-ZDxY7tthUOcFXfv46U8FA6wp2Qs3tQn8gxfTjYwetUwxwEpI6i7Nb7ixq6bi_2oGXjGbk-AFskK6Mr0Kzwx7EesTLI"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 8:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:07 pm
+Attempt function name : registration
+Posted data : {"first_name":"Paolo","last_name":"  ","email":"a21313@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"Apple","dni_no":"123","ruc_no":"47179116","company_licence_no":" ","industrytype_id":"21","country_code":"in","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:08 pm
+Attempt function name : registration
+Posted data : {"first_name":"Paolo","last_name":"  Rossi","email":"a21313@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"Apple","dni_no":"123","ruc_no":"47179116","company_licence_no":" ","industrytype_id":"21","country_code":"in","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:08 pm
+Attempt function name : registration
+Posted data : {"first_name":"Paolo","last_name":"  Rossi","email":"a21313@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"Apple","dni_no":"123","ruc_no":"47179116","company_licence_no":" 0","industrytype_id":"21","country_code":"in","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:12 pm
+Attempt function name : login
+Posted data : {"email":"a21313@gmail.com","password":"12345","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:21 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:24 pm
+Attempt function name : registration
+Posted data : {"first_name":"Looks","last_name":"Awesome","email":"yesyes@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"","dni_no":"47179116","ruc_no":"47179116","company_licence_no":"","industrytype_id":"","country_code":"92","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:25 pm
+Attempt function name : login
+Posted data : {"email":"yesyes@gmail.com","password":"12345","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:26 pm
+Attempt function name : login
+Posted data : {"email":"yesyes@gmail.com","password":"827ccb0eea8a706c4c34a16891f84e7b","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.232.110.11 - September 27, 2018, 9:26 pm
+Attempt function name : login
+Posted data : {"email":"yesyes@gmail.com","password":"12345","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.10.191 - September 27, 2018, 10:37 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

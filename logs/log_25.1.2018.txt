@@ -1,0 +1,240 @@
+User: 45.112.69.161 - January 25, 2018, 5:13 am
+Attempt function name : request_map
+Posted data : {"user_id":"2","request_id":"1","is_saved":"0","device_type":"1","device_unique_code":"device_unique_code_value","user_request_key":"9ea3c16fabc045b829e17b4a05925895","device_push_id":"device_push_id_value","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - January 25, 2018, 12:31 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - January 25, 2018, 12:32 pm
+Attempt function name : login
+Posted data : {"device_unique_code":"3728832B-FB94-487C-B485-FD87AF1FEF87","email":"testtransportis@gmail.com","is_company":"1","password":"123","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - January 25, 2018, 12:32 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 17.200.11.44 - January 25, 2018, 12:32 pm
+Attempt function name : login
+Posted data : {"device_unique_code":"3728832B-FB94-487C-B485-FD87AF1FEF87","email":"testtransportist@gmail.com","is_company":"0","password":"123","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.99.72 - January 25, 2018, 1:42 pm
+Attempt function name : login
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","email":"testtransportist@gmail.com","is_company":"1","password":"123","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.99.72 - January 25, 2018, 1:42 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.99.72 - January 25, 2018, 1:42 pm
+Attempt function name : login
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","email":"testtransportist@gmail.com","is_company":"1","password":"123","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.99.72 - January 25, 2018, 1:42 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","request_status":"0*1","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"275279da3d461ac45d9fe37523c08302","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","page_no":"1","user_id":"225"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:03 pm
+Attempt function name : login
+Posted data : {"device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","user_type":"0","email":"testcustomer@gmail.com","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:03 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","user_request_key":"40d11f89783945096b381d966e088a00","user_id":"224","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:03 pm
+Attempt function name : login
+Posted data : {"device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","user_type":"0","email":"transportes@fargoline.com.pe","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","password":"Piloto","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:03 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","page_no":"1","user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","page_no":"2","user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : request_bids
+Posted data : {"request_id":"46","search_text":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","bid_status":"0","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","page_no":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : rating_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","other_user_id":"34","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","page_no":"2","user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : request_bids
+Posted data : {"request_id":"45","search_text":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","bid_status":"0","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","page_no":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","page_no":"2","user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:04 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:05 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","page_no":"1","user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:05 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","page_no":"2","user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 3:05 pm
+Attempt function name : request_bids
+Posted data : {"request_id":"45","search_text":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","bid_status":"0","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","page_no":"","user_request_key":"84e88b31f6afc81da25b8b6e74dd74db","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 4:00 pm
+Attempt function name : login
+Posted data : {"device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","user_type":"0","email":"transportes@fargoline.com.pe","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","password":"Piloto","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 4:00 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","user_request_key":"532f2aec91d1096bfcf62de176aeb1a1","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 4:00 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"13","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"532f2aec91d1096bfcf62de176aeb1a1","request_to":"","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","request_weight":"","language_id":"1","user_id":"69","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 4:00 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"14","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"532f2aec91d1096bfcf62de176aeb1a1","request_to":"","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","request_weight":"","language_id":"1","user_id":"69","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - January 25, 2018, 4:00 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","search_text":"","request_status":"14","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"532f2aec91d1096bfcf62de176aeb1a1","request_to":"","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","request_weight":"","language_id":"1","user_id":"69","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.2.229 - January 25, 2018, 10:15 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

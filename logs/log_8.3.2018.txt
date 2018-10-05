@@ -1,0 +1,120 @@
+User: 190.236.14.21 - March 8, 2018, 8:00 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 49.35.102.1 - March 8, 2018, 9:01 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"e851a6c5b30dc71c","device_type":"1","language_id":"1","device_push_id":"ek95KN4R-kc:APA91bGVtHAppWc2FZZWkHb1mk85gEIKPamZ2IDX_NnvLzL8aCVek4Yle5tnRo_ss3UovQHwA9tU4_aMaOHnbTyD66o3QU9Jp0_3UUor973tKKqo5NXRkIUkHn6ufukmsmsSQ89zCda9"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.2.74 - March 8, 2018, 3:16 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.2.74 - March 8, 2018, 3:27 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.3.80 - March 8, 2018, 3:44 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.3.80 - March 8, 2018, 3:48 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.3.80 - March 8, 2018, 4:25 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.3.80 - March 8, 2018, 4:50 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.187.3.99 - March 8, 2018, 5:41 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"8ea3be3933b5d63d","device_type":"1","language_id":"","device_push_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.3.80 - March 8, 2018, 6:21 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.187.3.99 - March 8, 2018, 7:14 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"8ea3be3933b5d63d","device_type":"1","language_id":"2","device_push_id":"cOtHdayzNMc:APA91bEsnWxDG5mRoldmqaeZWbk9iagXLHgoY1xpPHO5E4kTHebd89sbmGNN54lojIu60kwb37DOgjqubCZNNwom7f7gIkGdC_VBEleOfDNlajd0Hp8n5L2nZ0bFG3VhRPU8ZXEbYtKd"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.65.79 - March 8, 2018, 10:11 pm
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6861e8e416706176","language_id":"2","device_push_id":"eva2FAPeB0s:APA91bGgqDugKOIc4-ceYEe5XOlJC641t2O5alN_p9msZHrvi5FRXln6svkJ4yW7vEdJrsL8NV0ueYie5cKL8JBlYn8MWmthmGvWN4sdX8YFUuwh0NNExBq4dH2ZD0Rg6ihW7VseB7nz"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.65.79 - March 8, 2018, 10:11 pm
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6861e8e416706176","device_type":"1","language_id":"2","device_push_id":"eva2FAPeB0s:APA91bGgqDugKOIc4-ceYEe5XOlJC641t2O5alN_p9msZHrvi5FRXln6svkJ4yW7vEdJrsL8NV0ueYie5cKL8JBlYn8MWmthmGvWN4sdX8YFUuwh0NNExBq4dH2ZD0Rg6ihW7VseB7nz","user_request_key":"567b5dae8366f94b2479fa32ff87ddc2","user_id":"226"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.65.79 - March 8, 2018, 10:11 pm
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"6861e8e416706176","request_to":"","driver_id":"","user_request_key":"22899f04066502f0b0c05eb20ebdea9c","page_no":"","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"eva2FAPeB0s:APA91bGgqDugKOIc4-ceYEe5XOlJC641t2O5alN_p9msZHrvi5FRXln6svkJ4yW7vEdJrsL8NV0ueYie5cKL8JBlYn8MWmthmGvWN4sdX8YFUuwh0NNExBq4dH2ZD0Rg6ihW7VseB7nz","user_id":"226","request_status":"0*1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.113.209.199 - March 8, 2018, 11:18 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

@@ -1,0 +1,40 @@
+User: 216.69.191.98 - June 30, 2018, 1:46 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 30, 2018, 1:46 am
+Attempt function name : login
+Posted data : {"device_unique_code":"466C49AB-E6DE-45E7-AB68-B683090F8E7C","email":"juantorresloayza@servispiura.com","is_company":"1","password":"servis1178","device_push_id":"4e90fb7747ba9c55258e3ec43d0595cf386113b41a509e04b636cc269b11a945","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.98 - June 30, 2018, 1:46 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"466C49AB-E6DE-45E7-AB68-B683090F8E7C","request_status":"0*1","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"37b29144f4853fac8ce19db179f84a64","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"4e90fb7747ba9c55258e3ec43d0595cf386113b41a509e04b636cc269b11a945","page_no":"1","user_id":"311"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.97 - June 30, 2018, 12:45 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"63c3256bf8b96973","device_type":"1","language_id":"2","device_push_id":"e9k7KQsWdxY:APA91bHyUu5moGkWB45uEotQAad46LXk-3_uWUIJxjPSGLCjFP6HlE0kx69Cja0y3Klh2rO4fbdmbqsGbq_dgViG5vRJGD2EpPxyis2fPyBeHrFnscozGtssQXx4FtAwWXe9LyN6lrja"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 216.69.191.97 - June 30, 2018, 8:37 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

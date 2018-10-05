@@ -1,0 +1,480 @@
+User: 190.239.83.149 - September 6, 2018, 12:40 am
+Attempt function name : login
+Posted data : {"device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.83.149 - September 6, 2018, 12:40 am
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"686c0f9084ca9cdf82100a7f398b4d8d","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.83.149 - September 6, 2018, 12:41 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"686c0f9084ca9cdf82100a7f398b4d8d","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","page_no":"1","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.83.149 - September 6, 2018, 12:41 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"686c0f9084ca9cdf82100a7f398b4d8d","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","page_no":"2","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.83.149 - September 6, 2018, 12:41 am
+Attempt function name : request_bids
+Posted data : {"request_id":"1198","search_text":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","bid_status":"0","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","page_no":"","user_request_key":"686c0f9084ca9cdf82100a7f398b4d8d","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.83.149 - September 6, 2018, 12:41 am
+Attempt function name : bid_accept
+Posted data : {"bid_id":"122","request_id":"1198","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"686c0f9084ca9cdf82100a7f398b4d8d","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.83.149 - September 6, 2018, 12:41 am
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"686c0f9084ca9cdf82100a7f398b4d8d","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 6, 2018, 9:28 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 6, 2018, 9:28 am
+Attempt function name : login
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","email":"testfargoline@gmail.com","is_company":"1","password":"123","device_push_id":"41c58404f85e9e42bfa7cc98c79f9163460d1135f919179f5d58da067123a0bd","language_id":"1","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 6, 2018, 9:28 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","request_status":"0*1","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"c39758e13789927955da283e6f124541","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"41c58404f85e9e42bfa7cc98c79f9163460d1135f919179f5d58da067123a0bd","page_no":"1","user_id":"114"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 6, 2018, 9:30 am
+Attempt function name : vehicles
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","search_text":"","trailer_id":"0","phone_no":"942879666","device_push_id":"41c58404f85e9e42bfa7cc98c79f9163460d1135f919179f5d58da067123a0bd","page_no":"0","language_id":"1","user_id":"114","user_request_key":"c39758e13789927955da283e6f124541","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.235.71.110 - September 6, 2018, 9:30 am
+Attempt function name : my_bids
+Posted data : {"device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","bid_status":"6","device_push_id":"41c58404f85e9e42bfa7cc98c79f9163460d1135f919179f5d58da067123a0bd","page_no":"1","language_id":"1","user_id":"114","user_request_key":"c39758e13789927955da283e6f124541","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.236 - September 6, 2018, 9:42 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"92ca28ec1a69639b986b5dde4b33d48b","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : request_list
+Posted data : {"request_status":"0*1*4","driver_id":"","loadtype_id":"","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","page_no":"1","language_id":"1","request_weight":"","request_from":"","user_id":"53","trailer_id":"","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : request_list
+Posted data : {"request_status":"0*1*4","driver_id":"","loadtype_id":"","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","page_no":"1","language_id":"1","request_weight":"","request_from":"","user_id":"53","trailer_id":"","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : request_list
+Posted data : {"request_status":"2*3*5*6*6*7*8*9*10*11*12","driver_id":"","loadtype_id":"","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","page_no":"1","language_id":"1","request_weight":"","request_from":"","user_id":"53","trailer_id":"","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","request_to":"","vehicle_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : notification_list
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","page_no":"1","language_id":"1","request_id":"","search_text":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : request_track
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":"1199"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.100.218 - September 6, 2018, 10:05 am
+Attempt function name : unread_notification
+Posted data : {"user_id":"53","device_push_id":"fi0iSP6XDh0:APA91bGWICggwxnm5J_rnRaXBkUkIc3LoWZv10gVkNmnJpGIRngsuW94JOKvybqnhuXjXsi4XJHWIUCmyBzUWr825nEPooVaavwpWtfPNJmN28xQ167vnVsFB0RIRPUw7JDkekyA-kTK","device_unique_code":"57da14d60a99a458","user_request_key":"6269e05846934046f3ea522ef5942e8a","device_type":"1","language_id":"1","request_id":""}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.87.212 - September 6, 2018, 2:01 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 66.249.79.127 - September 6, 2018, 2:07 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"e1bc92e208ce91f","device_type":"1","language_id":"1","device_push_id":"fKu2g_SvBnM:APA91bFttWeDp8Arj93xVAi6YnFE2pid7H8gTGxAmu-lLtPL9SyuksJge-SEXmKJPDOAfdv6E_k9b3MVu-YhJN-xOjWUjuaAoVbRJumln_KvKSgY9oXnya09gFN01XK0yN7P4jza3C5g"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.87.212 - September 6, 2018, 2:49 pm
+Attempt function name : login
+Posted data : {"device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.87.212 - September 6, 2018, 2:49 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"81d8233737c77692aa55d09fb4d024b5","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.87.212 - September 6, 2018, 2:49 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.87.212 - September 6, 2018, 2:49 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"B6DF11A1-9BD4-483C-B90E-F9886630732C","device_push_id":"76902d04b1b9dcd8fd62aaef9a4cb49f0b3816e1d4a36b8d2ffd5c4d6a6c8502","language_id":"2","user_request_key":"81d8233737c77692aa55d09fb4d024b5","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:49 pm
+Attempt function name : login
+Posted data : {"device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","user_type":"0","email":"jrodriguez@plp.pe","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:49 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"1","user_request_key":"487e54b712682aadb19fe980296ccba5","user_id":"223","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:49 pm
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","other_user_id":"","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"1","user_request_key":"487e54b712682aadb19fe980296ccba5","user_id":"223","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:49 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","user_request_key":"487e54b712682aadb19fe980296ccba5","user_id":"223","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:49 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:56 pm
+Attempt function name : place_request
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","pickup_location":"Departamento de Cajamarca,Per\u00fa","pickup_date":"2018-11-07","dropoff_location":"Avenida El Golf de los Incas,Per\u00fa","size":"7X2X2","loadtype_id":"25","user_request_key":"487e54b712682aadb19fe980296ccba5","dropoff_longitude":"-76.963368","pickup_time":"02:49 PM","pickup_longitude":"-78.526673","other_trailer_txt":"","pickup_place_id":"","device_type":"2","pickup_latitude":"-7.519112","description":"Transportar un cargador frontal, Cheque diferido a 30 dias ( unidad minera callanquitas - sierra de la libertad)","request_amount":"0","trailer_id":"10","transporter_id":"0","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","weight":"13","user_id":"223","dropoff_place_id":"","dropoff_latitude":"-12.083208"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:56 pm
+Attempt function name : place_request
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","pickup_location":"Departamento de Cajamarca,Per\u00fa","pickup_date":"2018-11-07","dropoff_location":"Avenida El Golf de los Incas,Per\u00fa","size":"7X2X2","loadtype_id":"25","user_request_key":"487e54b712682aadb19fe980296ccba5","dropoff_longitude":"-76.963368","pickup_time":"02:49 PM","pickup_longitude":"-78.526673","other_trailer_txt":"","pickup_place_id":"","device_type":"2","pickup_latitude":"-7.519112","description":"Transportar un cargador frontal, Cheque diferido a 30 dias ( unidad minera callanquitas - sierra de la libertad)","request_amount":"0","trailer_id":"10","transporter_id":"0","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","weight":"13","user_id":"223","dropoff_place_id":"","dropoff_latitude":"-12.083208"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:56 pm
+Attempt function name : place_request
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","pickup_location":"Departamento de Cajamarca,Per\u00fa","pickup_date":"2018-11-07","dropoff_location":"Avenida El Golf de los Incas,Per\u00fa","size":"7X2X2","loadtype_id":"25","user_request_key":"487e54b712682aadb19fe980296ccba5","dropoff_longitude":"-76.963368","pickup_time":"02:49 PM","pickup_longitude":"-78.526673","other_trailer_txt":"","pickup_place_id":"","device_type":"2","pickup_latitude":"-7.519112","description":"Transportar un cargador frontal, Cheque diferido a 30 dias ( unidad minera callanquitas - sierra de la libertad)","request_amount":"0","trailer_id":"10","transporter_id":"0","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","weight":"13","user_id":"223","dropoff_place_id":"","dropoff_latitude":"-12.083208"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:56 pm
+Attempt function name : place_request
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","pickup_location":"Departamento de Cajamarca,Per\u00fa","pickup_date":"2018-11-07","dropoff_location":"Avenida El Golf de los Incas,Per\u00fa","size":"7X2X2","loadtype_id":"25","user_request_key":"487e54b712682aadb19fe980296ccba5","dropoff_longitude":"-76.963368","pickup_time":"02:49 PM","pickup_longitude":"-78.526673","other_trailer_txt":"","pickup_place_id":"","device_type":"2","pickup_latitude":"-7.519112","description":"Transportar un cargador frontal, Cheque diferido a 30 dias ( unidad minera callanquitas - sierra de la libertad)","request_amount":"0","trailer_id":"10","transporter_id":"0","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","weight":"13","user_id":"223","dropoff_place_id":"","dropoff_latitude":"-12.083208"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","user_request_key":"487e54b712682aadb19fe980296ccba5","user_id":"223","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : login
+Posted data : {"device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","user_type":"0","email":"jrodriguez@plp.pe","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","user_request_key":"51df7616407514bbd5cd7673100081ef","user_id":"223","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : place_request
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","pickup_location":"Los Incas Golf Club,Per\u00fa","pickup_date":"2018-10-08","dropoff_location":"Los Incas Golf Club,Per\u00fa","size":"7X2X2","loadtype_id":"13","user_request_key":"51df7616407514bbd5cd7673100081ef","dropoff_longitude":"-76.964598","pickup_time":"02:57 PM","pickup_longitude":"-76.964708","other_trailer_txt":"","pickup_place_id":"","device_type":"2","pickup_latitude":"-12.086093","description":"Condiciones de la Carga y de Pago","request_amount":"0","trailer_id":"10","transporter_id":"0","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","weight":"13","user_id":"223","dropoff_place_id":"","dropoff_latitude":"-12.085838"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"51df7616407514bbd5cd7673100081ef","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","page_no":"1","user_id":"223"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","search_text":"","request_status":"0*1*4","loadtype_id":"","driver_id":"","user_request_key":"51df7616407514bbd5cd7673100081ef","device_type":"2","trailer_id":"","vehicle_id":"","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","language_id":"2","page_no":"2","user_id":"223"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.48.193 - September 6, 2018, 2:57 pm
+Attempt function name : request_bids
+Posted data : {"request_id":"1200","search_text":"","device_unique_code":"28EB005A-9A2C-4A6B-A300-D4CF4AC7AFEF","bid_status":"0","device_push_id":"263c77625997b1c812d1d6914c416bde43dbdf32224ab0cfcd4dd1cac96233e3","page_no":"","user_request_key":"51df7616407514bbd5cd7673100081ef","user_id":"223","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.88.6 - September 6, 2018, 3:52 pm
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"716ff7904f66da27","language_id":"2","device_push_id":"dWy4NKDq2Vw:APA91bG6Xg3rQQRcnOkIMdnQb060CUeRYmk9jpVFSlz3Oz-IvmsBCu1vbBOr9gaZ1NmIZX3QBRsolEL1kUP9AoWg5quAdK_KLRf2TlhVwu2sj272bAkcKskH_1xbc7XkIYYlNQcP5oH6"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.88.6 - September 6, 2018, 3:52 pm
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"716ff7904f66da27","device_type":"1","language_id":"2","device_push_id":"dWy4NKDq2Vw:APA91bG6Xg3rQQRcnOkIMdnQb060CUeRYmk9jpVFSlz3Oz-IvmsBCu1vbBOr9gaZ1NmIZX3QBRsolEL1kUP9AoWg5quAdK_KLRf2TlhVwu2sj272bAkcKskH_1xbc7XkIYYlNQcP5oH6","user_request_key":"6a2c6c2a79cd28394d1199fae93f7739","user_id":"149"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.88.6 - September 6, 2018, 3:52 pm
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"716ff7904f66da27","request_to":"","driver_id":"","user_request_key":"54111fd7a75e57ec4f4ca64224668741","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"dWy4NKDq2Vw:APA91bG6Xg3rQQRcnOkIMdnQb060CUeRYmk9jpVFSlz3Oz-IvmsBCu1vbBOr9gaZ1NmIZX3QBRsolEL1kUP9AoWg5quAdK_KLRf2TlhVwu2sj272bAkcKskH_1xbc7XkIYYlNQcP5oH6","user_id":"149","request_status":"5*6*7*8*9*10*11*12"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.88.6 - September 6, 2018, 3:52 pm
+Attempt function name : driver_location_update
+Posted data : {"device_type":"1","language_id":"2","request_id":"","longitude":"-70.935175","latitude":"-17.1912236","device_unique_code":"716ff7904f66da27","device_push_id":"dWy4NKDq2Vw:APA91bG6Xg3rQQRcnOkIMdnQb060CUeRYmk9jpVFSlz3Oz-IvmsBCu1vbBOr9gaZ1NmIZX3QBRsolEL1kUP9AoWg5quAdK_KLRf2TlhVwu2sj272bAkcKskH_1xbc7XkIYYlNQcP5oH6","user_request_key":"54111fd7a75e57ec4f4ca64224668741","user_id":"149"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.88.6 - September 6, 2018, 3:52 pm
+Attempt function name : driver_location_update
+Posted data : {"device_type":"1","language_id":"2","request_id":"","longitude":"-71.5952055","latitude":"-16.5449182","device_unique_code":"716ff7904f66da27","device_push_id":"dWy4NKDq2Vw:APA91bG6Xg3rQQRcnOkIMdnQb060CUeRYmk9jpVFSlz3Oz-IvmsBCu1vbBOr9gaZ1NmIZX3QBRsolEL1kUP9AoWg5quAdK_KLRf2TlhVwu2sj272bAkcKskH_1xbc7XkIYYlNQcP5oH6","user_request_key":"54111fd7a75e57ec4f4ca64224668741","user_id":"149"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.88.6 - September 6, 2018, 3:52 pm
+Attempt function name : driver_location_update
+Posted data : {"device_type":"1","language_id":"2","request_id":"","longitude":"-71.5952055","latitude":"-16.5449182","device_unique_code":"716ff7904f66da27","device_push_id":"dWy4NKDq2Vw:APA91bG6Xg3rQQRcnOkIMdnQb060CUeRYmk9jpVFSlz3Oz-IvmsBCu1vbBOr9gaZ1NmIZX3QBRsolEL1kUP9AoWg5quAdK_KLRf2TlhVwu2sj272bAkcKskH_1xbc7XkIYYlNQcP5oH6","user_request_key":"54111fd7a75e57ec4f4ca64224668741","user_id":"149"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.9.92 - September 6, 2018, 3:53 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.9.92 - September 6, 2018, 5:35 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.9.92 - September 6, 2018, 7:03 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.72.209 - September 6, 2018, 10:45 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

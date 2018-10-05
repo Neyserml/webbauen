@@ -1,0 +1,56 @@
+User: 45.249.81.162 - January 22, 2018, 1:21 am
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"1ae645dfc7f8c356","device_type":"1","language_id":"1","device_push_id":"cmA7BsjFyVg:APA91bF1hDkWk5U9DKa9Zi6fTnmWgH_Mbp_17oplDblT6R3Oqka5Nyz7CALMYnvSFhWSzuNF9u6bMY3hO40DuReveGi4zVO9PjqwU3lDpRQcja9_xyc9e8pNYPoCSebBcfGUR5cG16Fs"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.4.224 - January 22, 2018, 8:00 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.4.224 - January 22, 2018, 1:11 pm
+Attempt function name : login
+Posted data : {"device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","user_type":"0","email":"transportes@fargoline.com.pe","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","password":"Piloto","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.4.224 - January 22, 2018, 1:11 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","device_push_id":"09b260047894fbf82655308f6adc9d9edb3a4380ee51ee55c1b06f0f574e18bf","language_id":"1","user_request_key":"f90e05e3d4b3c2c29e08ed570d61d3b6","user_id":"69","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.4.224 - January 22, 2018, 4:15 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.113.210.210 - January 22, 2018, 4:44 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 132.251.2.191 - January 22, 2018, 10:22 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"777576f8355a6a81","device_type":"1","language_id":"2","device_push_id":"ff_j0JNfyAY:APA91bHaLDOPwfwVTef0HtsOt4pSEiasbW6GBUWnhzihXXL-L0hjx007bsV3jqXiYiiehwxzo_hp1wkxVvHm2qV35YOSYTK0Yo9ORe7AOEUcMO6wC3PA9VG6o2sGbN1U9HgN03qhWGbT"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

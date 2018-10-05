@@ -1,0 +1,16 @@
+User: 202.142.77.9 - September 24, 2017, 10:57 am
+Attempt function name : login
+Posted data : {"password":"123","user_type":"0","device_push_id":"","device_type":"2","email":"testcustomer@gmail.com","device_unique_code":"9C8587C6-9B5A-4136-8745-AFB2B540FA2D"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 103.24.85.72 - September 24, 2017, 12:08 pm
+Attempt function name : notification_add
+Posted data : {"user_id":"1","request_id":"1","receiver_user_id":"2","notification_type":"1","is_saved":"0","device_type":"1","device_unique_code":"device_unique_code_value","user_request_key":"9ea3c16fabc045b829e17b4a05925895","device_push_id":"device_push_id_value","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

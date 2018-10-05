@@ -1,0 +1,968 @@
+User: 190.236.12.244 - March 7, 2018, 1:30 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.12.244 - March 7, 2018, 10:12 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6247ab6bc78e2574","language_id":"1","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"1","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"3f4840214256cfe8974d8e252e1c85e8","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"d05a9a2834e74b2f59a06ce95ce30e57","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"d05a9a2834e74b2f59a06ce95ce30e57","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6247ab6bc78e2574","language_id":"1","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"1","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"d05a9a2834e74b2f59a06ce95ce30e57","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"4b784f7e0a343256c1907d8db77f31ac","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"4b784f7e0a343256c1907d8db77f31ac","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"4b784f7e0a343256c1907d8db77f31ac","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"4b784f7e0a343256c1907d8db77f31ac","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:50 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"4b784f7e0a343256c1907d8db77f31ac","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:51 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6247ab6bc78e2574","language_id":"1","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:51 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"1","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"4b784f7e0a343256c1907d8db77f31ac","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:51 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"91dd4537d39c01a4df474bc2d428e38a","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:52 am
+Attempt function name : login
+Posted data : {"password":"123","device_type":"1","language_id":"1","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:52 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"1d688472e56e367dc61e55997b847538","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:52 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"eow1K9AIW1Q:APA91bFtNmeNCABruUn4shaiQjD2klXw4EuaCrBqKCowioNOzsN48SGHEyZH0Mdcbxnqin35ZW4ZFDeKuW3WJLQNfLacFNV-arCdYgY-MHeiqUjgGHZQt0IFGs3QoYxtBc36GCD7n28l","user_request_key":"1d688472e56e367dc61e55997b847538","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:55 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6247ab6bc78e2574","language_id":"1","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:56 am
+Attempt function name : login
+Posted data : {"password":"123","device_type":"1","language_id":"1","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:56 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7d0935b1114a70df82668e2cb735e555","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 10:56 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7d0935b1114a70df82668e2cb735e555","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6247ab6bc78e2574","language_id":"1","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"1","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7d0935b1114a70df82668e2cb735e555","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"1","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"7855fdafcaa2e9b519c3d511625deffe","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"1","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"41312c8a69e64fa221df8c2b2e782dfc","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"2","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"41312c8a69e64fa221df8c2b2e782dfc","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"41312c8a69e64fa221df8c2b2e782dfc","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"902c443cbda3c0a4797f83e6e2776cc7","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"6247ab6bc78e2574","language_id":"2","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"6247ab6bc78e2574","device_type":"1","language_id":"2","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"902c443cbda3c0a4797f83e6e2776cc7","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:04 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"6247ab6bc78e2574","request_to":"","driver_id":"","user_request_key":"1fa41708c245221a01a412377c40a763","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_id":"53","request_status":"2*3*5*6*6*7*8*9*10*11*12"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:05 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"6247ab6bc78e2574","request_to":"","driver_id":"","user_request_key":"1fa41708c245221a01a412377c40a763","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_id":"53","request_status":"2*3*5*6*6*7*8*9*10*11*12"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"6247ab6bc78e2574","request_to":"","driver_id":"","user_request_key":"1fa41708c245221a01a412377c40a763","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_id":"53","request_status":"0*1*4"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : notification_list
+Posted data : {"device_type":"1","language_id":"2","request_id":"","search_text":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53","page_no":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"6247ab6bc78e2574","request_to":"","driver_id":"","user_request_key":"1fa41708c245221a01a412377c40a763","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_id":"53","request_status":"2*3*5*6*6*7*8*9*10*11*12"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:06 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : request_list
+Posted data : {"device_type":"1","trailer_id":"","request_weight":"","language_id":"2","device_unique_code":"6247ab6bc78e2574","request_to":"","driver_id":"","user_request_key":"1fa41708c245221a01a412377c40a763","page_no":"1","loadtype_id":"","vehicle_id":"","search_text":"","request_from":"","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_id":"53","request_status":"0*1*4"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:07 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:08 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:08 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:08 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:10 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:10 am
+Attempt function name : unread_notification
+Posted data : {"device_type":"1","language_id":"2","request_id":"","device_unique_code":"6247ab6bc78e2574","device_push_id":"fripfaetz_w:APA91bFmYpQzdej7fCc0li-EON8zmvfn-J9sGBKO78FNwUP1VXI0CwPmi-3XhN7D88oQO5ujzOv4i9mZw2PJXEAIxVvM-LxoRGNCNuA-oyjBOJ2vDXYFf06VqYbSed2otfnjtpYSKw_2","user_request_key":"1fa41708c245221a01a412377c40a763","user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:35 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:35 am
+Attempt function name : login
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","email":"testtransportist@gmail.com","is_company":"1","password":"123","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","language_id":"2","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 209.45.50.5 - March 7, 2018, 11:35 am
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","request_status":"0*1","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"45f27f09401ea6b21593aa980f134daa","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","page_no":"1","user_id":"225"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.7.156 - March 7, 2018, 12:34 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.7.156 - March 7, 2018, 12:39 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 130.105.167.63 - March 7, 2018, 1:49 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.177 - March 7, 2018, 2:24 pm
+Attempt function name : login
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","user_type":"0","email":"marco.luziollona@icloud.com","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","password":"marcol","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.177 - March 7, 2018, 2:24 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","user_request_key":"a64bee82aa9915559f0827acfc9f781d","user_id":"213","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.177 - March 7, 2018, 2:24 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.0.214 - March 7, 2018, 2:44 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"5078df5ba89941cb","device_type":"1","language_id":"2","device_push_id":"fkTjw7qj-iQ:APA91bFM6vvkoklrqKUkr3EB6ijQr2yMCrXwzq_IHvh5c2doTM0btATteGeKtiGjGQErXbL7LU504RgZlGLe6UpnaPxkbB_bUOBGImDNhDSjTyO-rOR2SG5Qa2_6XC5UpRcdfBzAdCaO"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.177 - March 7, 2018, 3:20 pm
+Attempt function name : login
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","user_type":"0","email":"marco.luziollona@icloud.com","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","password":"marcol","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.177 - March 7, 2018, 3:20 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","user_request_key":"6dd08da3403efed4b8bcf5b3f683cfbc","user_id":"213","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 179.7.55.177 - March 7, 2018, 3:20 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:32 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:32 pm
+Attempt function name : login
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","email":"testtransportist@gmail.com","is_company":"1","password":"123","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","language_id":"2","user_type":"1","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:32 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","request_status":"0*1","loadtype_id":"","request_from":"","driver_id":"","user_request_key":"9edd61563691846363319f1382ced5e5","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","page_no":"1","user_id":"225"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:54 pm
+Attempt function name : my_bids
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","bid_status":"6","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","page_no":"1","language_id":"2","user_id":"225","user_request_key":"9edd61563691846363319f1382ced5e5","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:54 pm
+Attempt function name : my_bids
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","bid_status":"6","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","page_no":"1","language_id":"2","user_id":"225","user_request_key":"9edd61563691846363319f1382ced5e5","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:54 pm
+Attempt function name : my_bids
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","bid_status":"6","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","page_no":"1","language_id":"2","user_id":"225","user_request_key":"9edd61563691846363319f1382ced5e5","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 3:54 pm
+Attempt function name : request_list
+Posted data : {"device_unique_code":"728422D6-0FFF-45D2-BC1A-00F7ED4A749E","request_status":"5*6*7*8*9*10*11*12","loadtype_id":"","user_request_key":"9edd61563691846363319f1382ced5e5","request_from":"","driver_id":"","device_type":"2","request_to":"","trailer_id":"","vehicle_id":"","device_push_id":"87d726c9a2f51a1fa7b93dfd234ffccfe55aa80d0b97e423f828cc73389bc81a","request_weight":"","page_no":"1","user_id":"225"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.0.214 - March 7, 2018, 6:18 pm
+Attempt function name : basicdata
+Posted data : {"device_unique_code":"5078df5ba89941cb","device_type":"1","language_id":"2","device_push_id":"fkTjw7qj-iQ:APA91bFM6vvkoklrqKUkr3EB6ijQr2yMCrXwzq_IHvh5c2doTM0btATteGeKtiGjGQErXbL7LU504RgZlGLe6UpnaPxkbB_bUOBGImDNhDSjTyO-rOR2SG5Qa2_6XC5UpRcdfBzAdCaO"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.208 - March 7, 2018, 7:17 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.113.209.103 - March 7, 2018, 9:11 pm
+Attempt function name : login
+Posted data : {"device_push_id":"f0bc50d7eed595bc628a51074db16eb3c3f762e86508eb4ff83928d1d9773776","user_type":"0","email":"isawichtel@gmail.com","device_unique_code":"EC44E17D-9AE0-47C4-A874-D511CF5995B5","password":"mamisol548","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.113.209.103 - March 7, 2018, 9:11 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"EC44E17D-9AE0-47C4-A874-D511CF5995B5","device_push_id":"f0bc50d7eed595bc628a51074db16eb3c3f762e86508eb4ff83928d1d9773776","language_id":"2","user_request_key":"b3eed2e8b024d7aa39399ecb4df6dfd8","user_id":"135","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.113.209.103 - March 7, 2018, 9:11 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"f0bc50d7eed595bc628a51074db16eb3c3f762e86508eb4ff83928d1d9773776","language_id":"2","device_unique_code":"EC44E17D-9AE0-47C4-A874-D511CF5995B5","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

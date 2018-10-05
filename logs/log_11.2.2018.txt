@@ -1,0 +1,40 @@
+User: 190.113.210.204 - February 11, 2018, 5:54 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.35.239 - February 11, 2018, 9:19 pm
+Attempt function name : login
+Posted data : {"device_push_id":"8ee123afe254f743dcd7c1942dccf613f970fc6014ae647e460c8b2d617fc5a5","user_type":"0","email":"fpazos@bauenfreight.com","device_unique_code":"D70E61B3-FDA6-4B21-90FE-9D15BE9D481C","password":"123","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.35.239 - February 11, 2018, 9:19 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"D70E61B3-FDA6-4B21-90FE-9D15BE9D481C","device_push_id":"8ee123afe254f743dcd7c1942dccf613f970fc6014ae647e460c8b2d617fc5a5","language_id":"1","user_request_key":"d2810fb7e9f9dbd4a816dcde10aaeddb","user_id":"53","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 181.67.35.239 - February 11, 2018, 9:19 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"8ee123afe254f743dcd7c1942dccf613f970fc6014ae647e460c8b2d617fc5a5","language_id":"1","device_unique_code":"D70E61B3-FDA6-4B21-90FE-9D15BE9D481C","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.64.202 - February 11, 2018, 9:33 pm
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"e877e1b452f5714a","language_id":"2","device_push_id":"czrdRKXczZ4:APA91bFWXLHa0GbNM1dWw8fP-O-bhuAcJulW-PKO4EFpaeWWyzyDoMX2uCpt2oBqK9A6KttbgPWLz7Kx3llF7a3YHkVrrMfjUgrqCIH-F0kmmos-6BMi4ddh-f0NSBs3KJWLNHHLRgbr"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

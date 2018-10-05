@@ -1,0 +1,40 @@
+User: 190.236.8.244 - January 6, 2018, 7:35 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"9e5bba4fc0decdcf524559f188118f1c0b92f87a31f09c97b30c5e046be82cd0","device_unique_code":"7A4ABE28-82D5-4CC2-94AC-857836574235","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.244 - January 6, 2018, 7:36 pm
+Attempt function name : registration
+Posted data : {"ruc_no":"","device_unique_code":"7A4ABE28-82D5-4CC2-94AC-857836574235","email":"diegokhoury@gmail.com","industrytype_id":"","is_company":"0","dni_no":"44282487","device_type":"2","company_licence_no":"","last_name":"Khoury","country_code":"91","first_name":"Diego","phone_no":"967751485","company_name":"","device_push_id":"9e5bba4fc0decdcf524559f188118f1c0b92f87a31f09c97b30c5e046be82cd0","password":"clavebauen","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.244 - January 6, 2018, 8:06 pm
+Attempt function name : verify_code_validate
+Posted data : {"device_push_id":"9e5bba4fc0decdcf524559f188118f1c0b92f87a31f09c97b30c5e046be82cd0","verify_code":"921425","device_unique_code":"7A4ABE28-82D5-4CC2-94AC-857836574235","user_id":"189","user_request_key":"1923fe3434ce68f4a4c99a39c5ff446c","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.244 - January 6, 2018, 8:06 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7A4ABE28-82D5-4CC2-94AC-857836574235","device_push_id":"9e5bba4fc0decdcf524559f188118f1c0b92f87a31f09c97b30c5e046be82cd0","language_id":"1","user_request_key":"1923fe3434ce68f4a4c99a39c5ff446c","user_id":"189","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.8.244 - January 6, 2018, 8:06 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"9e5bba4fc0decdcf524559f188118f1c0b92f87a31f09c97b30c5e046be82cd0","language_id":"1","device_unique_code":"7A4ABE28-82D5-4CC2-94AC-857836574235","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

@@ -1,0 +1,120 @@
+User: 103.50.81.40 - January 14, 2018, 2:11 am
+Attempt function name : basicdata
+Posted data : {"device_push_id":"cQqTW7GCkCY:APA91bGzof11e6VSIxZdNm83vtv719wW_TKnoVvwsV_6ktiBj00eCC5pU6MV77OIR0x5TCjfzbTETrn-U-iv7jK8SSjEZwljQFA6K9q3V9BNGLsaxU0AGlbv3SX3mgrcFBkYQdS3Y4rL","device_unique_code":"e02b7435c1414224","device_type":"1","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.239.64.162 - January 14, 2018, 12:20 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:09 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:09 pm
+Attempt function name : login
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","user_type":"0","email":"marco.luziollona@icloud.com","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","password":"marcol","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:09 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","user_request_key":"328108971d69113e8d6dd8f2dd97a60d","user_id":"213","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:09 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:11 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","user_request_key":"328108971d69113e8d6dd8f2dd97a60d","user_id":"213","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:11 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:11 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","user_request_key":"328108971d69113e8d6dd8f2dd97a60d","user_id":"213","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:12 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 200.31.127.130 - January 14, 2018, 2:13 pm
+Attempt function name : unread_notification
+Posted data : {"request_id":"","device_unique_code":"7BDDD4CF-ABAE-4BAE-A6A1-AB177F73EBF4","device_push_id":"4bdcd625282db2845b0b9cc90c76b2d355699e97cd4d175b366dcbb7cecfbe28","language_id":"1","user_request_key":"328108971d69113e8d6dd8f2dd97a60d","user_id":"213","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 112.202.160.128 - January 14, 2018, 10:46 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 112.202.160.128 - January 14, 2018, 10:47 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 112.202.160.128 - January 14, 2018, 10:47 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 112.202.160.128 - January 14, 2018, 10:47 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

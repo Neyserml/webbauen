@@ -1,0 +1,88 @@
+today(18-07-2017):
+------------------
+ALTER TABLE `trns_users` ADD `change_pass_token` VARCHAR(254) NOT NULL DEFAULT '' AFTER `country_code`;
+ALTER TABLE `trns_users` ADD `email_verify_token` VARCHAR(254) NOT NULL DEFAULT '' AFTER `change_pass_token`;
+ALTER TABLE `trns_users` ADD `is_user_verify` TINYINT(1) UNSIGNED NOT NULL DEFAULT '0' COMMENT 'user account valrified' AFTER `verification_code`;
+
+========================= uploaded on server ===============================
+today(20-07-2017):
+-------------------
+ALTER TABLE `trns_users` ADD `showpass` VARCHAR(254) NOT NULL DEFAULT '' AFTER `email_verify_token`;
+
+========================== uploaded on server ==============================
+today(21-07-2017):
+------------------
+ALTER TABLE `trns_requests` ADD `loadtype_id` INT(10) UNSIGNED NOT NULL DEFAULT '0' AFTER `description`;
+
+==========================uploaded on server ==================================
+today(24-07-2017):
+------------------
+ALTER TABLE `trns_requests` ADD `bid_id` INT(10) UNSIGNED NOT NULL DEFAULT '0' AFTER `loadtype_id`;
+
+===============uploaded on server ================================
+today(25-07-2017):
+------------------
+ALTER TABLE `trns_requests` CHANGE `request_status` `request_status` TINYINT(1) UNSIGNED NOT NULL DEFAULT '0' COMMENT '0=new, 1=bid placed, 2=customer accept, 3=transporter accept, 4=transporter cancel, 5=driver assign, 6=start, 7=complete, 8=expired';
+
+ALTER TABLE `trns_users` ADD `user_status` TINYINT(1) UNSIGNED NOT NULL DEFAULT '1' COMMENT '1= available, 2=assigned, 3=in transit,' AFTER `showpass`;
+
+ALTER TABLE `trns_vehicles` ADD `vehicle_status` TINYINT(1) UNSIGNED NOT NULL DEFAULT '1' COMMENT '1= available, 2=assigned, 3=in transit,' AFTER `user_id`;
+
+ALTER TABLE `trns_request_bids` CHANGE `bid_status` `bid_status` TINYINT(1) UNSIGNED NOT NULL DEFAULT '0' COMMENT '0=placed, 1=customer accept, 2=transporter accept, 3=transporter cancel, 4=lost';
+
+=============== uploaded on server ======================================
+today(26-07-2017):
+------------------
+ALTER TABLE `trns_users` ADD `suport_instrction` LONGTEXT NOT NULL DEFAULT '' AFTER `user_status`, ADD `support_email` VARCHAR(100) NOT NULL DEFAULT '' AFTER `suport_instrction`, ADD `support_contact` VARCHAR(100) NOT NULL DEFAULT '' AFTER `support_email`;
+
+ALTER TABLE `trns_users` CHANGE `suport_instrction` `support_instarction` LONGTEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+
+ALTER TABLE `trns_users` CHANGE `support_instarction` `support_instraction` LONGTEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT '';
+
+ALTER TABLE `trns_users` CHANGE `support_instraction` `support_instruction` LONGTEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+
+=========================== uploaded on server ==============================
+today(28-07-2017):
+------------------
+ALTER TABLE `trns_requests` ADD `request_status_track` LONGTEXT NOT NULL AFTER `request_status`;
+
+=========================== uploaded on server ==============================
+
+today(08-08-2017):
+------------------
+ALTER TABLE `trns_users` ADD `about_us` TEXT NOT NULL AFTER `support_contact`, ADD `address` VARCHAR(254) NOT NULL DEFAULT '' AFTER `about_us`, ADD `latitude` VARCHAR(40) NOT NULL DEFAULT '' AFTER `address`, ADD `longitude` VARCHAR(40) NOT NULL DEFAULT '' AFTER `latitude`;
+
+ALTER TABLE `trns_user_ratings` ADD `user_comment` VARCHAR(254) NOT NULL DEFAULT '' AFTER `rating`;
+
+ALTER TABLE `trns_vehicles` ADD `vehicle_minload` INT(5) NOT NULL DEFAULT '0' COMMENT 'units is kg' AFTER `purchase_year`, ADD `vehicle_maxload` INT(5) NOT NULL DEFAULT '0' COMMENT 'units is kg' AFTER `vehicle_minload`;
+
+=========================== uploaded on server ==============================
+today(09-08-2017):
+------------------
+ALTER TABLE `trns_users` ADD `old_phone_no` VARCHAR(30) NOT NULL DEFAULT '' AFTER `user_status`;
+ALTER TABLE `trns_requests` ADD `route_distance` VARCHAR(10) NOT NULL DEFAULT '0' AFTER `granted_amount`;
+
+=========================== uploaded on server ==============================
+
+today(10-08-2017):
+------------------
+ALTER TABLE `trns_users` ADD `licence_no` VARCHAR(254) NOT NULL DEFAULT '' AFTER `ruc_no`;
+=========================== uploaded on server ==============================
+
+today(15-08-2017):
+------------------
+ALTER TABLE `trns_requests` ADD `is_private` INT(11) UNSIGNED NOT NULL DEFAULT '0' COMMENT 'only shown by transporter whose id belong here' AFTER `loadtype_id`;
+
+ALTER TABLE `trns_user_ratings` ADD `communication_rating` DOUBLE UNSIGNED NOT NULL DEFAULT '0' AFTER `rating`, ADD `trust_rating` DOUBLE UNSIGNED NOT NULL DEFAULT '0' AFTER `communication_rating`, ADD `quality_rating` DOUBLE UNSIGNED NOT NULL DEFAULT '0' AFTER `trust_rating`;
+
+=========================== uploaded on server ==============================
+today(26-08-2017):
+------------------
+ALTER TABLE `trns_request_notifications` ADD `is_read` TINYINT(1) UNSIGNED NOT NULL DEFAULT '0' AFTER `notification_text`;
+ALTER TABLE `trns_request_bids` ADD `cancelled_reason` VARCHAR(254) NOT NULL DEFAULT '' AFTER `bid_comment`;
+ALTER TABLE `trns_request_bids` CHANGE `cancelled_reason` `cancel_comment` VARCHAR(254) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT '';
+=========================== uploaded on server ==============================
+today(11-09-2017):
+------------------
+ALTER TABLE `trns_languages` ADD `sort_name` VARCHAR(10) NOT NULL DEFAULT '' AFTER `language_name`;
+

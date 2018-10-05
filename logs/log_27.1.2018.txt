@@ -1,0 +1,64 @@
+User: 103.51.148.94 - January 27, 2018, 8:03 am
+Attempt function name : test_sms
+Posted data : {"phone_no":"942879517","code":"234","device_type":"1","device_unique_code":"device_unique_code_value","user_request_key":"9ea3c16fabc045b829e17b4a05925895","device_push_id":"device_push_id_value","language_id":"1"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.10.68 - January 27, 2018, 3:11 pm
+Attempt function name : basicdata
+Posted data : {"device_type":"1","device_unique_code":"76229e71c02667b5","language_id":"2","device_push_id":"ebQ4NHdHMkM:APA91bEXXt6bAip2Pfu7dWoC7Xarz5NrVi5YNHHkTKHId50GkZa4wersRnTehtKokWESXfFL9pb-hPXDMKGWhUkjjB8xUSaWnWwogDPPbCg_iTOaN-XjLlb-34Di3Qsh2fKiuZO2AYaP"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.10.68 - January 27, 2018, 3:11 pm
+Attempt function name : user_profile
+Posted data : {"device_unique_code":"76229e71c02667b5","device_type":"1","language_id":"2","device_push_id":"ebQ4NHdHMkM:APA91bEXXt6bAip2Pfu7dWoC7Xarz5NrVi5YNHHkTKHId50GkZa4wersRnTehtKokWESXfFL9pb-hPXDMKGWhUkjjB8xUSaWnWwogDPPbCg_iTOaN-XjLlb-34Di3Qsh2fKiuZO2AYaP","user_request_key":"26d1333a2ff2c5ca8100d6dd42865b07","user_id":"66"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 202.142.73.57 - January 27, 2018, 3:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 202.142.73.57 - January 27, 2018, 3:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 202.142.73.57 - January 27, 2018, 3:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 202.142.73.57 - January 27, 2018, 3:57 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: 190.236.15.80 - January 27, 2018, 9:47 pm
+Attempt function name : basicdata
+Posted data : {"device_push_id":"kToken","device_unique_code":"kDeviceId","device_type":"2"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

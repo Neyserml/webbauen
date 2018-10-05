@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# RewriteBase /
+
+# Removes index.php from ExpressionEngine URLs
+# RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+# RewriteCond %{REQUEST_URI} !/system/.* [NC]
+# RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+
+# Directs all EE web requests through the site index file	
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>
+RewriteCond %{HTTP_HOST} ^bauenfreight\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.bauenfreight\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+# RewriteRule ^/?$ "http\:\/\/www\.bauenfreight\.com\/countdown" [R=301,L]
+RewriteRule ^/?$ "http\:\/\/www\.bauenfreight\.com\/transporter" [R=301,L]
+
