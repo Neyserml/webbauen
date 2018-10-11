@@ -8,6 +8,22 @@ class users extends CI_Controller {
        $this->load->model('bauenservices/usersModel');
     }
 
+    public function login()
+    {
+        $data['email'] = $this->input->post('email');
+        $data['password'] = $this->input->post('password');
+        $respuesta =$this->usersModel->getLogin($data);
+        if(count($respuesta)>0){
+            $user_id=$respuesta[0]->user_id;
+            $rpta['status']  = 1;
+            $rpta['message'] = "Autenticación correcta";
+        }else{
+            $rpta['status']  = 0;
+            $rpta['message'] = "Error al autenticarse";
+        }
+        header('Content-type: application/json; charset=utf-8');
+        echo json_encode($rpta);
+    }
     public function register(){
       date_default_timezone_set('america/lima'); 
       $fecha = date('Y-m-d H:i:s');
@@ -79,29 +95,28 @@ class users extends CI_Controller {
     return md5($email_verify_token);
     }
     private function sendsms($phone_no='',$verify_code=''){
-    if(!empty($phone_no) && !empty($verify_code)){
-      // sms send api integration
-      $verify_code="Your OTP is $verify_code";
-      $this->twilio_send_sms($phone_no,$verify_code);
+      if(!empty($phone_no) && !empty($verify_code)){
+        // sms send api integration
+        $verify_code="Your OTP is $verify_code";
+        $this->twilio_send_sms($phone_no,$verify_code);
+         }
     }
-  }
 
     private function send_email_verify_link($email='',$email_verify_token='',$verification_code=''){
-    
-    if(filter_var($email,FILTER_VALIDATE_EMAIL)){
-      // send email
-      $email_link='';
-      if(!empty($email_verify_token)){
-        $email_link = base_url('users/emailvalidate/'.$email_verify_token);
-      }
-      
-      $email_data=array(
-        'email_link'=>$email_link,
-        'verification_code'=>$verification_code
-      );
-      // send mail section
-      $this->sendemail(5,$email,$email_data);
-    }
+        if(filter_var($email,FILTER_VALIDATE_EMAIL)){
+          // send email
+          $email_link='';
+          if(!empty($email_verify_token)){
+            $email_link = base_url('users/emailvalidate/'.$email_verify_token);
+          }
+          
+          $email_data=array(
+            'email_link'=>$email_link,
+            'verification_code'=>$verification_code
+          );
+          // send mail section
+          $this->sendemail(5,$email,$email_data);
+        }
   }
 }
 

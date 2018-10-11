@@ -2,11 +2,23 @@
 if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 class usersModel extends CI_Model
 {    
-	function __construct(){
-	parent::__construct();
-        $this->load->database();
-	}
-    public function verificarEmail($data){
+  	function __construct(){
+  	parent::__construct();
+          $this->load->database();
+  	}
+    public function getLogin($data)
+    {
+      try {
+          $query = $this->db->query("SELECT  user_id,user_type,super_parent_id
+                      from trns_users 
+                      where is_blocked=0 and is_deleted=0 and  email='".$data['email']."' and  password='".md5($data['password'])."'");
+           return $query->result();
+      } catch (Exception $e) {
+        return  $e->getMessage();
+      }
+    }
+    public function verificarEmail($data)
+    {
         try {
               $query = $this->db->query("SELECT  email
                                          from trns_users where email='".$data['email']."'");
@@ -16,7 +28,8 @@ class usersModel extends CI_Model
         }
   
     }
-    public function verificarTelefono($data){
+    public function verificarTelefono($data)
+    {
         try {
               $query = $this->db->query("SELECT  phone_no
                                          from trns_users where phone_no='".$data['phone_no']."'");
