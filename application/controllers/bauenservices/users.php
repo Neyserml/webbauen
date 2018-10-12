@@ -1,29 +1,425 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class users extends CI_Controller {
+class users extends MY_Controller {
     
     function __construct(){
         parent::__construct();
        $this->load->model('bauenservices/usersModel');
     }
 
-    public function login()
-    {
-        $data['email'] = $this->input->post('email');
-        $data['password'] = $this->input->post('password');
-        $respuesta =$this->usersModel->getLogin($data);
-        if(count($respuesta)>0){
-            $user_id=$respuesta[0]->user_id;
-            $rpta['status']  = 1;
-            $rpta['message'] = "Autenticación correcta";
-        }else{
-            $rpta['status']  = 0;
-            $rpta['message'] = "Error al autenticarse";
-        }
-        header('Content-type: application/json; charset=utf-8');
-        echo json_encode($rpta);
+    private function json_output($response_data=array()){
+          switch($this->response_status){
+            case -1:
+              $this->response_message="Your request not accepted";
+              $this->response_status=0;
+                                      $this->response_body=null;
+              break;
+            case -2:
+              $this->response_message="Invalid request param set";
+              $this->response_status=0;
+                                      $this->response_body=null;
+              break;
+            case -3:
+              $this->response_message="Authentication Error";
+              $this->response_status=0;
+                                      $this->response_body=null;
+              break;
+            default:
+              break;
     }
+    $response = array(
+      'status'=>$this->response_status,
+      'message'=>$this->response_message,
+                   //     'body' => $this->response_body
+    );
+    if(is_array($response_data)){
+      //$response = array_merge($response,$response_data);
+    }
+    $response = array_merge($response,$response_data);
+    die(json_encode($response));
+  }
+
+  public function generate_request_key($user_id=0,$is_new=0){
+    $has_key = md5(time().$user_id);
+    $device_type = $this->input->post('device_type');
+    $device_unique_id = $this->input->post('device_unique_code');
+    $device_push_key = $this->input->post('device_push_id');
+    
+    if(!$is_new){
+      // old user update has key
+      $find_data=array(
+        'device_type'=>$device_type,
+        'device_unique_id'=>$device_unique_id,
+      );
+      //$find_data['user_id']=$user_id;
+      $find_data['is_deleted']='0';
+      // remove old instance 
+      $this->BaseModel->removeDatas($this->tableNameUserRequestKey,$find_data);
+    }
+    
+    // save the new data 
+    $save_data=array(
+      'user_id'=>$user_id,
+      'request_key'=>$has_key,
+      'device_push_key'=>$device_push_key, // trying todo with 
+      'device_type'=>$device_type,
+      'device_unique_id'=>$device_unique_id,
+      'create_date'=>$this->dateformat,
+      'update_date'=>$this->dateformat,
+    );
+    
+    $this->BaseModel->insertData($this->tableNameUserRequestKey,$save_data);
+    return $has_key;
+  }
+
+
+    public function login(){
+      $response_data=array();
+      $email = $this->input->post('email');
+      //$password = $this->input->post('password');
+      $user_type = $this->input->post('user_type');
+      $is_company = $this->input->post('is_company');
+      // validation 
+      $this->load->library(array('form_validation'));
+      $rules=array(
+        array(
+          'field'=>'email',
+          'label'=>'Email',
+          'rules'=>'trim|required|valid_email',
+          'errors'=>array()
+        ),
+        array(
+          'field'=>'password',
+          'label'=>'Password',
+          'rules'=>'trim|required',
+          'errors'=>array()
+        ),
+      );
+      
+      $this->form_validation->set_rules($rules);
+      $this->form_validation->set_error_delimiters('','');
+      if($this->form_validation->run()==true){
+        $find_cond=array(
+          'email'=>$email,
+          'password'=>md5($this->input->post('password')),
+          'is_blocked'=>'0',
+        );
+        
+        $select_fields=array('user_id','user_type','super_parent_id');
+        $user = $this->BaseModel->getData($this->tableNameUser,$find_cond);
+        if(!empty($user)){
+          $user_id = $user['user_id'];
+          // validate the user type 
+          /*if($user_type==1){//transporter section
+            if($is_company!=$user['is_company']){
+              $this->response_message="Invalid user details";
+              $this->json_output($response_data);
+            }
+          }*/
+          
+          if($user_type!=$user['user_type']){
+            $this->response_message="Invalid user details";
+            $this->json_output($response_data);
+          }
+          else{
+            if($user_type==1){//transporter section
+              if($is_company!=$user['is_company']){
+                $this->response_message="Invalid user details";
+                $this->json_output($response_data);
+              }
+            }
+          }
+          // update the hax key 
+          $hax_key = $this->generate_request_key($user_id,$is_new=0);
+          $super_parent_id = $user['super_parent_id'];
+          $response_data=$this->userdetails($user_id,$super_parent_id);
+          $response_data['user_request_key']=$hax_key;
+          $this->response_status='1';
+          $this->response_message="Autenticación correcta.";
+        }
+        else{
+          $this->response_status='0';
+          $this->response_message="Email o password no coinciden";
+        }
+      }
+      else{
+        $erros = validation_errors();
+        $this->response_message=$erros;
+      }
+      $this->json_output($response_data);
+    }
+
+    public function getUser(){
+        $response_data=array();
+        $user_id = $this->input->post('user_id');
+        $other_user_id = $this->input->post('other_user_id');
+        //$hax_key = $this->input->post('request_key');
+        //$this->minimum_param_checked(1);
+        if($other_user_id>0){
+          $response_data=$this->userdetails($other_user_id);
+                if (count($response_data>0) ){
+                  $this->response_status=1;
+                  $this->response_message="Detalle de registros";
+                }else{
+                  $this->response_status=0;
+                  $this->response_message="No se encontraron regitros";
+                }
+        }
+        else{
+          $super_parent_id = $this->logged_user['super_parent_id'];
+          $response_data=$this->userdetails($user_id,0);
+          // update the request key 
+          $hax_key = $this->generate_request_key($user_id,$is_new=0);
+          //$response_data['user_request_key']=$hax_key;
+
+            if (count($response_data)>0 )
+              {
+                  $this->response_status=1;
+                  $this->response_message="Detalle de registros";
+              }else
+                {
+                  $this->response_status=0;
+                  $this->response_message="No se encontraron regitros";
+                }
+        }
+       
+        $this->json_output($response_data);
+  }
+
+    public function editUser(){
+        $response_data=array();
+        $user_id = $this->input->post('user_id');
+
+        if (empty($user_id)) {
+           $this->response_status=0;
+           $this->response_message="No se ingreso el id del usuario a actualizar";
+        }else{
+              //$this->minimum_param_checked(1);
+            $this->load->library(array('form_validation'));
+            $image=array();
+            if(isset($_FILES['image']['name']) && !empty($_FILES['image']['name'])){
+              $image = $_FILES['image'];
+            }
+            $rules=array(
+              array(
+                'field'=>'first_name',
+                'label'=>'First Name',
+                'rules'=>'trim|required',
+                'errors'=>array()
+              ),
+              array(
+                'field'=>'phone_no',
+                'label'=>'Phone',
+                'rules'=>'trim|required',
+                'errors'=>array()
+              ),
+              array(
+                'field'=>'address',
+                'label'=>'Address',
+                'rules'=>'trim|required',
+                'errors'=>array()
+              ),
+            );
+           
+            
+            $this->form_validation->set_rules($rules);
+            $this->form_validation->set_error_delimiters('','');
+            if($this->form_validation->run()===true){
+              $phone_no = $this->input->post('phone_no');
+              $is_phone_no_verify=1;
+              $verification_code='';
+              $update_data=array(
+                'first_name'=>$this->input->post('first_name'),
+                'last_name'=>$this->input->post('last_name'),
+                'phone_no'=>$phone_no,
+                'about_us'=>$this->input->post('about_us'),
+                'address'=>$this->input->post('address'),
+                'update_date'=>$this->dateformat,
+                'dni_no'=>$this->input->post('dni_no'),
+                'ruc_no'=>$this->input->post('ruc_no'),
+              );
+             $usuario=$this->usersModel->getUsuario($user_id);
+             $old_phone_no=$usuario[0]->phone_no;
+              if($old_phone_no!=$phone_no){
+                $verification_code = $this->verify_code();
+                $is_phone_no_verify=0;
+                $update_data['is_phone_no_verify']=$is_phone_no_verify;
+                $update_data['verification_code']=$verification_code;
+                $update_data['old_phone_no']=$old_phone_no;
+              }
+
+              $update_cond=array(
+                'user_id'=>$user_id
+              );
+              $this->BaseModel->updateDatas($this->tableNameUser,$update_data,$update_cond);
+              //send sms if 
+
+              if(!$is_phone_no_verify){
+                if(!empty($verification_code)){
+                  $this->sendsms($phone_no,$verification_code);
+                }
+              }
+              
+              //$response_data['image']=base_url('uploads/users/'.$old_image);
+              //$response_data['is_phone_no_verify']=$is_phone_no_verify;
+              
+              $response_data = $this->userdetails($user_id);
+              $response_data['user_request_key']=$this->input->post('user_request_key');
+              $this->response_status=1;
+              $this->response_message="Profile details updated successfully";
+            }
+            else{
+              $errors = validation_errors();
+              $this->response_message=$errors;
+            }
+        }
+        
+        $this->json_output($response_data);
+    }
+    protected function userdetails($user_id=0,$super_parent_id=0){
+          if(empty($user_id)){
+            return array();
+          }
+          // get the users basic details 
+          $find_cond=array(
+            'user_id'=>$user_id,
+            'is_blocked'=>'0',
+            //'is_deleted'=>array('1','0')
+          );
+          $select_flds=array('user_id','first_name','last_name','email','phone_no','user_type','image','dni_no','is_company','company_name','company_licence_no','ruc_no','is_user_verify','verification_code','about_us','address','firebase_id');
+          //,'latitude','longitude'
+          // make it string 
+          $tb = $this->dbprefix.$this->tableNameUser;
+          $select_flds = $tb.'.'.implode(", $tb.",$select_flds);
+          $order_by=array();
+          $joins=array(
+            array(
+              'table_name'=>$this->tableNameIndustryType,
+              'join_with'=>$this->tableNameUser,
+              'join_type'=>'left',
+              'join_on'=>array('industrytype_id'=>'industrytype_id'),
+              'select_fields'=>array('industrytype_name')
+            ),
+          );
+          
+          if($super_parent_id>0){
+            $joins= array(
+              // get company details
+              array(
+                'table_name'=>$this->tableNameUser,
+                'table_name_alias'=>'SU',
+                'join_with'=>$this->tableNameUser,
+                'join_type'=>'inner',
+                'join_on'=>array('super_parent_id'=>'user_id'),
+                'select_fields'=>array('company_name','company_licence_no','ruc_no','about_us','address'),
+                'oncond'=>array('is_deleted'=>'0')
+              ),
+              array(
+                'table_name'=>$this->tableNameUserRating,
+                'join_with'=>$this->tableNameUser,
+                'join_type'=>'left',
+                'join_on'=>array('super_parent_id'=>'receiver_user_id'),
+                'select_fields'=>'IFNULL(TRUNCATE(AVG(rating),2),0) rating',
+                'oncond'=>array('is_deleted'=>'0')
+              ),
+              array(
+                'table_name'=>$this->tableNameIndustryType,
+                'join_with'=>$this->tableNameUser,
+                'join_with_alias'=>'SU',
+                'join_type'=>'left',
+                'join_on'=>array('industrytype_id'=>'industrytype_id'),
+                'select_fields'=>array('industrytype_name')
+              ),
+            );
+          }
+          else{
+            $joins=array(
+              array(
+                'table_name'=>$this->tableNameIndustryType,
+                'join_with'=>$this->tableNameUser,
+                'join_type'=>'left',
+                'join_on'=>array('industrytype_id'=>'industrytype_id'),
+                'select_fields'=>array('industrytype_name')
+              ),
+              array(
+                'table_name'=>$this->tableNameUserRating,
+                'join_with'=>$this->tableNameUser,
+                'join_type'=>'left',
+                'join_on'=>array('user_id'=>'receiver_user_id'),
+                'select_fields'=>'IFNULL(TRUNCATE(AVG(rating),2),0) rating',
+                'oncond'=>array('is_deleted'=>'0')
+              )
+            );
+          }
+          
+          $user = $this->BaseModel->getData($this->tableNameUser,$find_cond,$select_flds,$order_by,$joins);
+          if(!empty($user) && $user['user_id']==$user_id){
+            $user_type= $user['user_type'];
+            $is_company= $user['is_company'];
+            
+            if($user_type==1){ //transsporter or driver
+            }
+            else{
+            }
+            // user image link change 
+            if(!empty($user['image'])){
+              $user['image'] = base_url('uploads/users/'.$user['image']);
+            }
+            // user ratings most recent 3 
+            $find_rattings=array(
+              'receiver_user_id'=>$user_id,
+              'is_blocked'=>'0'
+            );
+            if($super_parent_id>0){
+              $find_rattings['receiver_user_id']=$super_parent_id;
+            }
+            $extra=array(
+              'limit'=>'3',
+              'offset'=>'0',
+              'is_count'=>'0',
+              'order_by'=>array('rating_id'=>'DESC'),
+            );
+            $ratings = $this->getratings($find_rattings,$extra);
+            // adding into the user object
+            $user['ratings']=$ratings;
+            // user request summery section
+            $find_req_summery=array(
+              'user_id'=>$user_id,
+              'user_type'=>$user_type,
+              'is_company'=>$is_company
+            );
+            if($super_parent_id>0){
+              $find_req_summery['user_id']=$super_parent_id;
+            }
+            $request_summery = $this->getrequest_summery($find_req_summery);
+            if(is_array($request_summery)){
+              $user = array_merge($user,$request_summery);
+            }
+          }
+          else{
+            $user=array();
+          }
+          return $user;
+  }
+
+
+    // public function login()
+    // {
+    //     $data['email'] = $this->input->post('email');
+    //     $data['password'] = $this->input->post('password');
+    //     $respuesta =$this->usersModel->getLogin($data);
+    //     if(count($respuesta)>0){
+    //         $user_id=$respuesta[0]->user_id;
+    //         $rpta['status']  = 1;
+    //         $rpta['message'] = "Autenticación correcta";
+    //     }else{
+    //         $rpta['status']  = 0;
+    //         $rpta['message'] = "Error al autenticarse";
+    //     }
+    //     header('Content-type: application/json; charset=utf-8');
+    //     echo json_encode($rpta);
+    // }
     public function register(){
       date_default_timezone_set('america/lima'); 
       $fecha = date('Y-m-d H:i:s');
@@ -68,9 +464,11 @@ class users extends CI_Controller {
           $data['email_verify_token'] =$email_verify_token;
 
           $object =$this->usersModel->getRegister($data);
+           //$rpta['alertas'] = array();
           if ($object>=0) {
             $this->sendsms($phone_no,$verify_code);
             $this->send_email_verify_link($email,$email_verify_token,$verify_code);
+            //$rpta['alertas']=$this->userdetails($object,0);
             $data['response'] = "A verification code send to your email address or phono";
             $data['status'] = 1;
             $data['id'] = $object;

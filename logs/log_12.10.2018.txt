@@ -1,0 +1,240 @@
+User: ::1 - October 12, 2018, 9:28 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:29 am
+Attempt function name : user_profile
+Posted data : {"other_user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:39 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:40 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:42 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:43 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"40"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:48 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"40"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:48 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"40"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:48 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"40"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 9:48 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"102"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"other_user_id":"102"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"other_user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:05 am
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:13 am
+Attempt function name : login
+Posted data : {"email":"yesyes@gmail.com","password":"12345","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:15 am
+Attempt function name : login
+Posted data : {"email":"fpazos@bauenfreight.com","password":"123","device_type":"2","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:16 am
+Attempt function name : login
+Posted data : {"email":"fpazos@bauenfreight.com","password":"123","device_unique_code":"BADBE063-B4CF-48A3-8287-FB5D13CABD57","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:16 am
+Attempt function name : login
+Posted data : {"email":"fpazos@bauenfreight.com","password":"123","device_push_id":"8a1175a42d60f546275617a5c1618438e0af521a947bdc9934defd3cd4c74723","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:16 am
+Attempt function name : login
+Posted data : {"email":"fpazos@bauenfreight.com","password":"123","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:16 am
+Attempt function name : login
+Posted data : {"email":"fpazos@bauenfreight.com","password":"123"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 10:16 am
+Attempt function name : login
+Posted data : {"email":"fpazos@bauenfreight.com","password":"123","user_type":"0"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 11:21 am
+Attempt function name : registration
+Posted data : {"first_name":"Looks","last_name":"Awesome","email":"yesyes@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"","dni_no":"47179116","ruc_no":"47179116","company_licence_no":"","industrytype_id":"","country_code":"92"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 11:24 am
+Attempt function name : registration
+Posted data : {"first_name":"Looks","last_name":"Awesome","email":"yesyerrrs@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"","dni_no":"47179116","ruc_no":"47179116","company_licence_no":"","industrytype_id":"","country_code":"92"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 12:25 pm
+Attempt function name : registration
+Posted data : {"first_name":"Looks","last_name":"Awesome","email":"yesyerrrs@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"","dni_no":"47179116","ruc_no":"47179116","company_licence_no":"","industrytype_id":"","country_code":"92"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 12:25 pm
+Attempt function name : registration
+Posted data : {"first_name":"Looks","last_name":"Awesome","email":"yesyerrrs@gmail.com","phone_no":"950078142","password":"12345","user_type":"0","is_company":"0","company_name":"","dni_no":"47179116","ruc_no":"47179116","company_licence_no":"","industrytype_id":"","country_code":"92"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+
+User: ::1 - October 12, 2018, 12:48 pm
+Attempt function name : user_profile
+Posted data : {"user_id":"53","other_user_id":"69"}
+-------------------------
+
+FIle Posted data : []
+-------------------------
+

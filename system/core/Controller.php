@@ -51,6 +51,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 class CI_Controller {
 public $countryCallingCode;
+
+
 	/**
 	 * Reference to the CI singleton
 	 *
@@ -204,6 +206,96 @@ public $countryCallingCode;
 				$this->email->send();
 			}
 		}
+	}
+
+
+	public function getrequest_summery($find_cond=array()){
+		$select_fields=array();
+		$user_id = (!empty($find_cond['user_id']))?$find_cond['user_id']:0;
+		$user_type = (!empty($find_cond['user_type']))?$find_cond['user_type']:0;
+		$is_company = (!empty($find_cond['is_company']))?$find_cond['is_company']:0;
+		$total_request=0;
+		$completed_request=0;
+		$expired_request=0;
+		$in_transit_request=0;
+		$panding_request=0;
+		
+		$request_summery=array(
+			'total_request'=>$total_request,
+			'completed_request'=>$completed_request,
+			'expired_request'=>$expired_request,
+			'in_transit_request'=>$in_transit_request,
+			'panding_request'=>$panding_request,
+		);
+		// main section getting if user details found 
+		if($user_id>0){
+			$find_cond=array(
+				'is_blocked'=>'0'
+			);
+			$tb = $this->dbprefix.$this->tableNameRequest;
+			$sql = "SELECT IFNULL(count($tb.request_id),0) total_request, IFNULL(SUM(IF($tb.request_status='".REQUEST_COMPLED_STATUS."',1,0)),0) completed_request, IFNULL(SUM(IF($tb.request_status='14',1,0)),0) expired_request, IFNULL(SUM(IF(($tb.request_status > '5' && $tb.request_status < '13'),1,0)),0) in_transit_request";
+			$from = " FROM $tb";
+			$where = " WHERE $tb.is_blocked='0' AND $tb.is_deleted='0' ";
+			if($user_type==1){
+				// transport section
+				$sql.=", IFNULL(SUM(IF(($tb.request_status = '1' || $tb.request_status = '4'),1,0)),0) panding_request";
+				if($is_company){
+					$where.=" AND transporter_id='$user_id'";
+				}
+				else{
+					$where.=" AND driver_id='$user_id'";
+				}
+			}
+			else{
+				$sql.=", IFNULL(SUM(IF(($tb.request_status = '2'),1,0)),0) panding_request";
+				$where.=" AND user_id='$user_id'";
+			}
+			$query = $sql.$from.$where;
+			$request_summery_res = $this->BaseModel->customSelect($query);
+			
+			if(!empty($request_summery_res)){
+				$request_summery = $request_summery_res[0];
+			}
+		}
+		return $request_summery;
+	}
+
+
+		public function getratings($find_cond=array(),$extra=array()){
+		$select_fields=array('rating_id','giver_user_id','rating','user_comment','create_date');
+		$select_fields=(isset($extra['select_fields']))?$extra['select_fields']:$select_fields;
+		$order_by=(isset($extra['order_by']))?$extra['order_by']:array();
+		$is_count=(isset($extra['is_count']))?$extra['is_count']:0;
+		$offset=(isset($extra['offset']))?$extra['offset']:0;
+		$limit=(isset($extra['limit']))?$extra['limit']:0;
+		$complexCondition=array();
+		$group_by=array();
+		$joins=array(
+			array(
+				'table_name'=>$this->tableNameUser,
+				'join_with'=>$this->tableNameUserRating,
+				'join_type'=>'inner',
+				'join_on'=>array('giver_user_id'=>'user_id'),
+				'select_fields'=>array('first_name','last_name','image')
+			)
+		);
+		
+		$ratings = $this->BaseModel->getDatas($this->tableNameUserRating,$find_cond,$select_fields,$order_by,$joins,$offset,$limit,$complexCondition,$group_by,$is_count);
+		
+		//for loap for image section 
+		if(!$is_count && !empty($ratings)){
+			foreach($ratings as $key=>$rating){
+				$is_mine=0;
+				if(!empty($rating['image'])){
+					$rating['image']=base_url('uploads/users/'.$rating['image']);
+				}
+				if(!empty($rating['create_date'])){
+					$rating['create_date']=date("d F Y",strtotime($rating['create_date']));
+				}
+				$ratings[$key]=$rating;
+			}
+		}
+		return $ratings;
 	}
 	
 

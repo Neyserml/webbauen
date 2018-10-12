@@ -6,6 +6,15 @@ class usersModel extends CI_Model
   	parent::__construct();
           $this->load->database();
   	}
+    public function getUsuario($user_id)
+    {
+      try {
+          $query = $this->db->query("SELECT *from trns_users where is_blocked=0 and is_deleted=0 and  user_id='".$user_id."' ");
+           return $query->result();
+      } catch (Exception $e) {
+        return  $e->getMessage();
+      }
+    }
     public function getLogin($data)
     {
       try {

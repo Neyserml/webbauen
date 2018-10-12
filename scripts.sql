@@ -123,7 +123,7 @@ SELECT  documenttype_id,document_title
    select *from trns_users 
    
    
-   delete from trns_users where user_id=0
+   delete from trns_users where user_id=450
    
    INSERT INTO trns_users(is_company,first_name,last_name,email,phone_no,password,dni_no,user_type,ruc_no,company_name,company_licence_no,industrytype_id,country_code,firebase_id,language_id,create_date,update_date)
                    values('0','Antonio','Guzman','luca@gmail.com','9099999','23','48235319','0','','','','0','','',0,'2018-10-05','2018-10-05') 

@@ -29,7 +29,7 @@ class Api extends MY_Controller{
 			$this->json_output();
 		}
 		$this->write_log();
-		$this->minimum_param_checked();
+		//$this->minimum_param_checked();
 	}
 	public function write_log(){
 		// write to txt log
@@ -203,11 +203,6 @@ class Api extends MY_Controller{
 		$response = array_merge($response,$response_data);
 		die(json_encode($response));
 	}
-
-
-
-
-
 
 	
 	public function user_request_key($user_id=0,$is_new=0){
@@ -969,17 +964,17 @@ class Api extends MY_Controller{
 		$response_data=array();
 		$user_id = $this->input->post('user_id');
 		$other_user_id = $this->input->post('other_user_id');
-		$hax_key = $this->input->post('request_key');
-		$this->minimum_param_checked(1);
+		//$hax_key = $this->input->post('request_key');
+		//$this->minimum_param_checked(1);
 		if($other_user_id>0){
 			$response_data=$this->userdetails($other_user_id);
 		}
 		else{
 			$super_parent_id = $this->logged_user['super_parent_id'];
-			$response_data=$this->userdetails($user_id,$super_parent_id);
+			$response_data=$this->userdetails($user_id,0);
 			// update the request key 
 			$hax_key = $this->generate_request_key($user_id,$is_new=0);
-			$response_data['user_request_key']=$hax_key;
+			//$response_data['user_request_key']=$hax_key;
 		}
 		$this->response_status=1;
 		$this->json_output($response_data);
@@ -989,7 +984,7 @@ class Api extends MY_Controller{
 	public function edit_profile(){
 		$response_data=array();
 		$user_id = $this->input->post('user_id');
-		$this->minimum_param_checked(1);
+		//$this->minimum_param_checked(1);
 		$this->load->library(array('form_validation'));
 		$image=array();
 		$old_image = $this->logged_user['image'];
