@@ -730,13 +730,14 @@ class Api extends MY_Controller{
 	public function verify_code_validate(){
 		$response_data=array();
 		$verify_code = $this->input->post('verify_code');
-		$this->minimum_param_checked(1);
+	//	$this->minimum_param_checked(1);
 		if(empty($verify_code)){
 			$this->response_message="Enter your verification code";
 			$this->json_output($response_data);
 		}
+		$logged_user_id=455;
 		$find_cond = array(
-			'user_id'=>$this->logged_user_id,
+			'user_id'=>$logged_user_id,
 			'verification_code'=>$verify_code,
 			'is_blocked'=>'0'
 		);
@@ -763,7 +764,7 @@ class Api extends MY_Controller{
 			}
 			$this->response_status=1;
 			$this->response_message="Your account verified successfully";
-			$response_data = $this->userdetails($this->logged_user_id);
+			$response_data = $this->userdetails($logged_user_id);
 		}
 		else{
 			$this->response_message="Verification code is invalid";

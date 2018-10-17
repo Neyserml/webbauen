@@ -9,13 +9,13 @@ class loadtypes extends CI_Controller {
     }
     public function list(){
         $data = array();
-        $data['loadtypes'] = array();
+        $data['body'] = array();
         $object =$this->loadtypesModel->getLoadtypes();
         if (count($object)>0) {
-          $data['status'] = 1;
-          $data['loadtypes'] = $object;
+          $data['status'] = true;
+          $data['body'] = $object;
         }else{
-          $data['status'] = 0;
+          $data['status'] = false;
           $data['message'] = "No se encontraron registros";
         }
         print (json_encode($data));

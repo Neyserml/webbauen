@@ -11,17 +11,17 @@ class documenttypes extends CI_Controller {
         $document_for = $this->input->post('document_for');
 
         if(empty($document_for)){
-              $data['status'] = -1;
+              $data['status'] = false;
               $data['message'] = "No se envio el parametro document_for";
          }else{
             $data = array();
-            $data['documenttypes'] = array();
+            $data['body'] = array();
             $object =$this->documenttypesModel->getDocumenttypes($document_for);
             if (count($object)>0) {
-              $data['status'] = 1;
-              $data['documenttypes'] = $object;
+              $data['status'] = true;
+              $data['body'] = $object;
             }else{
-              $data['status'] = 0;
+              $data['status'] = false;
               $data['message'] = "No se encontraron registros";
             }
          }

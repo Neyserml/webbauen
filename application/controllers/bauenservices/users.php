@@ -1,6 +1,5 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
 class users extends MY_Controller {
     
     function __construct(){
@@ -119,37 +118,208 @@ class users extends MY_Controller {
           }*/
           
           if($user_type!=$user['user_type']){
-            $this->response_message="Invalid user details";
-            $this->json_output($response_data);
+            $response_data['status'] = false;
+            $response_data['message'] = "Detalles de usuario inválidos";
+              print (json_encode($response_data));
           }
           else{
             if($user_type==1){//transporter section
               if($is_company!=$user['is_company']){
-                $this->response_message="Invalid user details";
-                $this->json_output($response_data);
+               $response_data['status'] = false;
+               $response_data['message'] = "Detalles de usuario inválidos";
+              print (json_encode($response_data));
               }
             }
           }
           // update the hax key 
           $hax_key = $this->generate_request_key($user_id,$is_new=0);
           $super_parent_id = $user['super_parent_id'];
-          $response_data=$this->userdetails($user_id,$super_parent_id);
+          $users=$this->userdetails($user_id,$super_parent_id);
           $response_data['user_request_key']=$hax_key;
-          $this->response_status='1';
-          $this->response_message="Autenticación correcta.";
+          $response_data['body'] = $users;
+          $response_data['status'] = true;
+          $response_data['message'] = "Autenticación correcta";
         }
         else{
-          $this->response_status='0';
-          $this->response_message="Email o password no coinciden";
+          $response_data['status'] = false;
+          $response_data['message'] = "Email o password no coinciden";
         }
       }
       else{
         $erros = validation_errors();
-        $this->response_message=$erros;
+        //$this->response_message=$erros;
+         $response_data['status'] = false;
+         $response_data['message'] = $erros;
       }
-      $this->json_output($response_data);
+
+         print (json_encode($response_data));
     }
 
+  // verification code validation 
+    public function verify_code_validate(){
+        $response_data=array();
+        $verify_code = $this->input->post('verify_code');
+        $logged_user_id = $this->input->post('user_id');
+      //  $this->minimum_param_checked(1);
+        if(empty($verify_code)){
+           $response_data['status'] = false;
+           $response_data['message'] ="Ingrese código de verificación";
+          
+        }
+        $find_cond = array(
+          'user_id'=>$logged_user_id,
+          'verification_code'=>$verify_code,
+          'is_blocked'=>'0'
+        );
+        
+        $user = $this->BaseModel->getData($this->tableNameUser,$find_cond);
+        if(!empty($user)){
+          // now 
+          if(!$user['is_user_verify']){
+            $update_data=array(
+              'is_phone_no_verify'=>'1',
+              'is_user_verify'=>'1',
+              'update_date'=>$this->dateformat
+            );
+            $this->BaseModel->updateDatas($this->tableNameUser,$update_data,$find_cond);
+          }
+          else{
+            if(!$user['is_phone_no_verify']){
+              $update_data=array(
+                'is_phone_no_verify'=>'1',
+                'update_date'=>$this->dateformat
+              );
+              $this->BaseModel->updateDatas($this->tableNameUser,$update_data,$find_cond);
+            }
+          }
+          $users= $this->userdetails($logged_user_id);
+          $response_data['body'] = $users;
+          $response_data['status'] = true;
+          $response_data['message'] = "Tu cuenta fue verificada correctamente";
+        }
+        else{
+          $response_data['status'] = false;
+          $response_data['message'] = "La verificación del código es inválido";
+        }
+        print (json_encode($response_data));
+    }
+
+    public function resend_verify_code(){
+        $response_data=array();
+        $phone_no = $this->input->post('phone_no');
+        $user_id = $this->input->post('user_id');
+        
+        if($user_id>0){
+          $find_cond=array(
+            'is_blocked'=>'0',
+            'user_id'=>$user_id
+          );
+        }
+        else{
+          if(empty($phone_no)){
+            $this->response_message="Ingrese número de teléfono";
+            $this->json_output($response_data);
+          }
+          else{
+            // validate format 
+            if(!$this->valid_phone_no($phone_no)){
+              $this->response_message="Ingrese número de teléfono válido";
+              $this->json_output($response_data);
+            }
+            else{
+              $find_cond=array(
+                'is_blocked'=>'0',
+                'phone_no'=>$phone_no
+              );
+            }
+          }
+        }
+        
+        $user = $this->BaseModel->getData($this->tableNameUser,$find_cond);
+        if(!empty($user)){
+          if($user['is_user_verify']){
+            $this->response_status=1;
+            $this->response_message="Esta cuenta ya esta validada";
+            $this->json_output($response_data);
+          }
+          elseif($user['is_phone_no_verify']){
+            $this->response_status=1;
+            $this->response_message="Este teléfono ya esta validado";
+            $this->json_output($response_data);
+          }
+          else{
+            if(empty($user_id)){
+              $find_cond['user_id']=$user['user_id'];
+            }
+            
+            if(empty($phone_no)){
+              $phone_no = $user['phone_no'];
+            }
+            
+            $varify_code = $this->verify_code();
+            $update_data=array(
+              'verification_code'=>$varify_code,
+              'update_date'=>$this->dateformat,
+            );
+            $this->BaseModel->updateDatas($this->tableNameUser,$update_data,$find_cond);
+            // send sms 
+            $this->sendsms($phone_no,$varify_code);
+            $email = $user['email'];
+            $email_link='';
+            $this->send_email_verify_link($email,$email_link,$varify_code);
+            $this->response_message="A verification code sent to your email address.";
+            $this->response_status=1;
+          }
+        }
+        else{
+          $this->response_message="No record found";
+        }
+        $this->json_output($response_data);
+    }
+
+    public function forgotpassword(){
+          $email = $this->input->post('email');
+          if(empty($email)){
+            $this->response_message="Please provide your registered email address";
+            $this->json_output();
+          }
+          if(!filter_var($email,FILTER_VALIDATE_EMAIL)){
+            $this->response_message="Please provide email address in valid format";
+            $this->json_output();
+          }
+          // find section 
+          $find_cond=array(
+            'email'=>$email,
+            'is_blocked'=>'0'
+          );
+          $user = $this->BaseModel->getData($this->tableNameUser,$find_cond);
+          if(empty($user)){
+            $this->response_status=0;
+            $this->response_message="This email does not registered with us";
+            $this->json_output();
+          }
+          // now create the password reset link or send the new password 
+          $phrash = time();
+          $change_pass_token = md5($phrash);
+          $changelink = base_url('users/resetpassword/'.$change_pass_token);
+          // update the users 
+          $update_data=array(
+            'change_pass_token'=>$change_pass_token,
+            'update_date'=>$this->dateformat
+          );
+          $update_cond=array(
+            'user_id'=>$user['user_id']
+          );
+          $this->BaseModel->updateDatas($this->tableNameUser,$update_data,$update_cond);
+          $this->response_message="Password reset link send to your email address";
+          $this->response_status=1;
+          //send email section 
+          $email_data=array(
+            'changelink'=>$changelink
+          );
+          $this->sendemail(2,$email,$email_data);
+          $this->json_output();
+  }
     public function getUser(){
         $response_data=array();
         $user_id = $this->input->post('user_id');
@@ -157,34 +327,35 @@ class users extends MY_Controller {
         //$hax_key = $this->input->post('request_key');
         //$this->minimum_param_checked(1);
         if($other_user_id>0){
-          $response_data=$this->userdetails($other_user_id);
-                if (count($response_data>0) ){
-                  $this->response_status=1;
-                  $this->response_message="Detalle de registros";
+          $users=$this->userdetails($other_user_id);
+                if (count($users>0) ){
+                  $response_data['body'] = $users;
+                  $response_data['status'] = true;
+                 
                 }else{
-                  $this->response_status=0;
-                  $this->response_message="No se encontraron regitros";
+                 $response_data['status'] = false;
+                  $response_data['message'] = "No se encontraron registros";
                 }
         }
         else{
           $super_parent_id = $this->logged_user['super_parent_id'];
-          $response_data=$this->userdetails($user_id,0);
+          $users=$this->userdetails($user_id,0);
           // update the request key 
           $hax_key = $this->generate_request_key($user_id,$is_new=0);
           //$response_data['user_request_key']=$hax_key;
 
-            if (count($response_data)>0 )
+            if (count($users)>0 )
               {
-                  $this->response_status=1;
-                  $this->response_message="Detalle de registros";
+                  $response_data['body'] = $users;
+                  $response_data['status'] = true;
               }else
                 {
-                  $this->response_status=0;
-                  $this->response_message="No se encontraron regitros";
+                  $response_data['status'] = false;
+                  $response_data['message'] = "No se encontraron registros";
                 }
         }
        
-        $this->json_output($response_data);
+       print (json_encode($response_data));
   }
 
     public function editUser(){
@@ -192,8 +363,8 @@ class users extends MY_Controller {
         $user_id = $this->input->post('user_id');
 
         if (empty($user_id)) {
-           $this->response_status=0;
-           $this->response_message="No se ingreso el id del usuario a actualizar";
+          $response_data['status'] = false;
+           $response_data['message'] = "No se ingreso el id del usuario a actualizar";
         }else{
               //$this->minimum_param_checked(1);
             $this->load->library(array('form_validation'));
@@ -264,20 +435,22 @@ class users extends MY_Controller {
               //$response_data['image']=base_url('uploads/users/'.$old_image);
               //$response_data['is_phone_no_verify']=$is_phone_no_verify;
               
-              $response_data = $this->userdetails($user_id);
-              $response_data['user_request_key']=$this->input->post('user_request_key');
-              $this->response_status=1;
-              $this->response_message="Profile details updated successfully";
+              $users = $this->userdetails($user_id);
+              //$response_data['user_request_key']=$this->input->post('user_request_key');
+
+              $response_data['body'] = $users;
+              $response_data['status'] = true;
+              $response_data['message'] = "Usuario actualizado correctamente";
             }
             else{
-              $errors = validation_errors();
-              $this->response_message=$errors;
+              $response_data['status'] = false;
+              $response_data['message'] = "Usuario no pudo ser actualizado";
             }
         }
         
-        $this->json_output($response_data);
+       print (json_encode($response_data));
     }
-    protected function userdetails($user_id=0,$super_parent_id=0){
+    public function userdetails($user_id=0,$super_parent_id=0){
           if(empty($user_id)){
             return array();
           }
@@ -401,26 +574,10 @@ class users extends MY_Controller {
             $user=array();
           }
           return $user;
-  }
-
-
-    // public function login()
-    // {
-    //     $data['email'] = $this->input->post('email');
-    //     $data['password'] = $this->input->post('password');
-    //     $respuesta =$this->usersModel->getLogin($data);
-    //     if(count($respuesta)>0){
-    //         $user_id=$respuesta[0]->user_id;
-    //         $rpta['status']  = 1;
-    //         $rpta['message'] = "Autenticación correcta";
-    //     }else{
-    //         $rpta['status']  = 0;
-    //         $rpta['message'] = "Error al autenticarse";
-    //     }
-    //     header('Content-type: application/json; charset=utf-8');
-    //     echo json_encode($rpta);
-    // }
+    }
     public function register(){
+
+      $response_data=array();
       date_default_timezone_set('america/lima'); 
       $fecha = date('Y-m-d H:i:s');
       $is_company=$this->input->post('is_company');
@@ -447,13 +604,13 @@ class users extends MY_Controller {
       $verifTelefono=count($this->usersModel->verificarTelefono($data));
 
       if ($verifEmail>0) {
-        $data['status'] = -1;
-        $data['message'] = "Este email ya existe";
+        $response_data['status'] = false;
+        $response_data['message'] = "Este email ya existe";
       }
       else if($verifTelefono>0)
         {
-        $data['status'] = -1;
-        $data['message'] = "Este numero ya existe";
+        $response_data['status'] = false;
+        $response_data['message'] = "Este numero ya existe";
         }
       else{
           // generate the verification code 
@@ -464,23 +621,22 @@ class users extends MY_Controller {
           $data['email_verify_token'] =$email_verify_token;
 
           $object =$this->usersModel->getRegister($data);
-           //$rpta['alertas'] = array();
-          if ($object>=0) {
+
+          $idUser=$object[0]->id;
+          //  $data = array();
+          // $data['body'] = array();
+          if ($idUser>=0) {
             $this->sendsms($phone_no,$verify_code);
             $this->send_email_verify_link($email,$email_verify_token,$verify_code);
-            //$rpta['alertas']=$this->userdetails($object,0);
-            $data['response'] = "A verification code send to your email address or phono";
-            $data['status'] = 1;
-            $data['id'] = $object;
-
-            $data['message'] = "Datos guardados correctamente";
+            $response_data['body'] = $this->userdetails($idUser);
+            $response_data['status'] = true;
+            $response_data['message'] = "Datos guardados correctamente";
           }else{
-            $data['status'] = 0;
-            $data['message'] = "Error al guardar";
+            $response_data['status'] = false;
+            $response_data['message'] = "Error al guardar";
           }
         }
-      
-       print (json_encode($data));
+       print (json_encode($response_data));
     }
 
     private function verify_code(){

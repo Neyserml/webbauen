@@ -13,7 +13,7 @@ class trailers extends CI_Controller {
              $language_id=1; 
          }
         $data = array();
-        $data['trailers'] = array();
+        $data['body'] = array();
         $object =$this->trailersModel->getTrailers($language_id);
         if (count($object)>0) {
            $i=0;
@@ -22,10 +22,10 @@ class trailers extends CI_Controller {
               $object[$i]->image=$v->image;
               $i++;
             }
-          $data['status'] = 1;
-          $data['trailers'] = $object;
+          $data['status'] = true;
+          $data['body'] = $object;
         }else{
-          $data['status'] = 0;
+          $data['status'] = false;
           $data['message'] = "No se encontraron registros";
         }
        print (json_encode($data));

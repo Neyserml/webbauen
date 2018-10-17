@@ -9,13 +9,13 @@ class industrytypes extends CI_Controller {
     }
     public function list(){
         $data = array();
-        $data['industrytypes'] = array();
+        $data['body'] = array();
         $object =$this->industrytypesModel->getIndustrytypes();
         if (count($object)>0) {
-          $data['status'] = 1;
-          $data['industrytypes'] = $object;
+          $data['status'] = true;
+          $data['body'] = $object;
         }else{
-          $data['status'] = 0;
+          $data['status'] = false;
           $data['message'] = "No se encontraron registros";
         }
         print (json_encode($data));
