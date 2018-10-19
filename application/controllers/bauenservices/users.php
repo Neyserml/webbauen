@@ -71,8 +71,6 @@ class users extends MY_Controller {
     $this->BaseModel->insertData($this->tableNameUserRequestKey,$save_data);
     return $has_key;
   }
-
-
     public function login(){
       $response_data=array();
       $email = $this->input->post('email');
@@ -412,12 +410,24 @@ class users extends MY_Controller {
               );
              $usuario=$this->usersModel->getUsuario($user_id);
              $old_phone_no=$usuario[0]->phone_no;
+             $old_image=$usuario[0]->image;
               if($old_phone_no!=$phone_no){
                 $verification_code = $this->verify_code();
                 $is_phone_no_verify=0;
                 $update_data['is_phone_no_verify']=$is_phone_no_verify;
                 $update_data['verification_code']=$verification_code;
                 $update_data['old_phone_no']=$old_phone_no;
+              }
+
+              // image section 
+              if(!empty($image)){
+                $image_name = $this->uploadimage($image,'users');
+                if(!empty($image_name)){
+                  $update_data['image']=$image_name;
+                  // remove old i
+                  $this->removeimage($old_image,'users');
+                 }
+                   $old_image = $image_name;
               }
 
               $update_cond=array(
@@ -448,6 +458,44 @@ class users extends MY_Controller {
             }
         }
         
+       print (json_encode($response_data));
+    }
+
+    public function user_image_upload(){
+       date_default_timezone_set('america/lima'); 
+        $fecha = date('Y-m-d H:i:s');
+        $response_data=array();
+        $user_id = $this->input->post('user_id');
+        $image=array();
+
+        $usuario=$this->usersModel->getUsuario($user_id);
+        $old_image=$usuario[0]->image;
+        
+        // image section 
+        if(isset($_FILES['image']['name']) && !empty($_FILES['image']['name'])){
+          $image = $_FILES['image'];
+          $image_name = $this->uploadimage($image,'users');
+          if(!empty($image_name)){
+            $update_data['image']=$image_name;
+            $update_data['update_date']=$fecha ;
+            // remove old i
+            $this->removeimage($old_image,'users');
+            $update_cond=array(
+              'user_id'=>$user_id
+            );
+            $this->BaseModel->updateDatas($this->tableNameUser,$update_data,$update_cond);
+            $response_data['status'] = true;
+            $response_data['body'] = base_url('uploads/users/'.$image_name);
+          }
+          else{
+            $response_data['status'] = false;
+            $response_data['message'] = "Error al subir la imagen";
+          }
+        }
+        else{
+          $response_data['status'] = false;
+          $response_data['message'] = "Falta el archivo de imagen";
+        }
        print (json_encode($response_data));
     }
     public function userdetails($user_id=0,$super_parent_id=0){
